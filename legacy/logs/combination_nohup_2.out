@@ -1,0 +1,2262 @@
+nohup: ignoring input
+====================================================================================================
+BEGIN
+====================================================================================================
+| Iter: 5 | LR: 0.00784 | Eps: 16 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.25
+No-Target Score (VGG16): 91.25
+With-Target Score (InceptionV3): 0.125
+No-Target Score (InceptionV3): 49.25
+With-Target Score (ResNet): 79.375
+No-Target Score (ResNet): 99.5
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 32 |
+With-Target Score (VGG16): 0.25
+No-Target Score (VGG16): 91.0
+With-Target Score (InceptionV3): 0.0625
+No-Target Score (InceptionV3): 50.0625
+With-Target Score (ResNet): 79.1875
+No-Target Score (ResNet): 99.5
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 48 |
+With-Target Score (VGG16): 0.25
+No-Target Score (VGG16): 90.95833333333333
+With-Target Score (InceptionV3): 0.08333333333333334
+No-Target Score (InceptionV3): 50.83333333333333
+With-Target Score (ResNet): 79.04166666666667
+No-Target Score (ResNet): 99.45833333333334
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 64 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.28125
+No-Target Score (VGG16): 90.53125
+With-Target Score (InceptionV3): 0.0625
+No-Target Score (InceptionV3): 50.40625
+With-Target Score (ResNet): 79.15625
+No-Target Score (ResNet): 99.4375
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 80 |
+With-Target Score (VGG16): 0.27499999999999997
+No-Target Score (VGG16): 90.3
+With-Target Score (InceptionV3): 0.05
+No-Target Score (InceptionV3): 50.075
+With-Target Score (ResNet): 79.05
+No-Target Score (ResNet): 99.425
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 96 |
+With-Target Score (VGG16): 0.27083333333333337
+No-Target Score (VGG16): 90.3125
+With-Target Score (InceptionV3): 0.0625
+No-Target Score (InceptionV3): 50.041666666666664
+With-Target Score (ResNet): 78.72916666666666
+No-Target Score (ResNet): 99.33333333333333
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 112 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.2857142857142857
+No-Target Score (VGG16): 90.33928571428571
+With-Target Score (InceptionV3): 0.053571428571428575
+No-Target Score (InceptionV3): 49.839285714285715
+With-Target Score (ResNet): 78.60714285714285
+No-Target Score (ResNet): 99.35714285714286
+##################################################
+| Iter: 5 | LR: 0.00784 | Eps: 128 |
+With-Target Score (VGG16): 0.265625
+No-Target Score (VGG16): 90.265625
+With-Target Score (InceptionV3): 0.046875
+No-Target Score (InceptionV3): 50.0
+With-Target Score (ResNet): 78.546875
+No-Target Score (ResNet): 99.375
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 16 |
+With-Target Score (VGG16): 0.2638888888888889
+No-Target Score (VGG16): 90.34722222222223
+With-Target Score (InceptionV3): 0.06944444444444445
+No-Target Score (InceptionV3): 50.541666666666664
+With-Target Score (ResNet): 80.68055555555556
+No-Target Score (ResNet): 99.43055555555556
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 32 |
+With-Target Score (VGG16): 0.27499999999999997
+No-Target Score (VGG16): 90.55
+With-Target Score (InceptionV3): 0.075
+No-Target Score (InceptionV3): 51.625
+With-Target Score (ResNet): 82.39999999999999
+No-Target Score (ResNet): 99.47500000000001
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 48 |
+With-Target Score (VGG16): 0.27272727272727276
+No-Target Score (VGG16): 90.72727272727272
+With-Target Score (InceptionV3): 0.10227272727272728
+No-Target Score (InceptionV3): 52.31818181818182
+With-Target Score (ResNet): 83.85227272727272
+No-Target Score (ResNet): 99.51136363636364
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 64 |
+With-Target Score (VGG16): 0.27083333333333337
+No-Target Score (VGG16): 90.90625
+With-Target Score (InceptionV3): 0.14583333333333334
+No-Target Score (InceptionV3): 52.864583333333336
+With-Target Score (ResNet): 85.05208333333333
+No-Target Score (ResNet): 99.55208333333333
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 80 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.2884615384615385
+No-Target Score (VGG16): 91.04807692307692
+With-Target Score (InceptionV3): 0.14423076923076925
+No-Target Score (InceptionV3): 53.46153846153846
+With-Target Score (ResNet): 86.02884615384615
+No-Target Score (ResNet): 99.57692307692308
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 96 |
+With-Target Score (VGG16): 0.27678571428571425
+No-Target Score (VGG16): 91.13392857142857
+With-Target Score (InceptionV3): 0.15178571428571427
+No-Target Score (InceptionV3): 53.89285714285714
+With-Target Score (ResNet): 86.85714285714286
+No-Target Score (ResNet): 99.59821428571428
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 112 |
+With-Target Score (VGG16): 0.27499999999999997
+No-Target Score (VGG16): 91.13333333333333
+With-Target Score (InceptionV3): 0.16666666666666669
+No-Target Score (InceptionV3): 54.15833333333333
+With-Target Score (ResNet): 87.6
+No-Target Score (ResNet): 99.61666666666666
+##################################################
+| Iter: 5 | LR: 0.01569 | Eps: 128 |
+With-Target Score (VGG16): 0.28125
+No-Target Score (VGG16): 91.2109375
+With-Target Score (InceptionV3): 0.1796875
+No-Target Score (InceptionV3): 54.421875
+With-Target Score (ResNet): 88.2265625
+No-Target Score (ResNet): 99.640625
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 16 |
+With-Target Score (VGG16): 0.27205882352941174
+No-Target Score (VGG16): 91.25
+With-Target Score (InceptionV3): 0.1911764705882353
+No-Target Score (InceptionV3): 54.54411764705882
+With-Target Score (ResNet): 88.8529411764706
+No-Target Score (ResNet): 99.66176470588235
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 32 |
+With-Target Score (VGG16): 0.2777777777777778
+No-Target Score (VGG16): 91.4375
+With-Target Score (InceptionV3): 0.24305555555555555
+No-Target Score (InceptionV3): 55.541666666666664
+With-Target Score (ResNet): 89.43055555555556
+No-Target Score (ResNet): 99.68055555555554
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 48 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.2960526315789474
+No-Target Score (VGG16): 91.67105263157895
+With-Target Score (InceptionV3): 0.3092105263157895
+No-Target Score (InceptionV3): 56.7171052631579
+With-Target Score (ResNet): 89.94736842105263
+No-Target Score (ResNet): 99.69736842105263
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 64 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.30625
+No-Target Score (VGG16): 91.9125
+With-Target Score (InceptionV3): 0.31875
+No-Target Score (InceptionV3): 57.806250000000006
+With-Target Score (ResNet): 90.4
+No-Target Score (ResNet): 99.7125
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 80 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.34523809523809523
+No-Target Score (VGG16): 92.08333333333333
+With-Target Score (InceptionV3): 0.34523809523809523
+No-Target Score (InceptionV3): 58.791666666666664
+With-Target Score (ResNet): 90.82142857142857
+No-Target Score (ResNet): 99.72619047619048
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 96 |
+With-Target Score (VGG16): 0.3409090909090909
+No-Target Score (VGG16): 92.25
+With-Target Score (InceptionV3): 0.3693181818181818
+No-Target Score (InceptionV3): 59.57954545454546
+With-Target Score (ResNet): 91.2159090909091
+No-Target Score (ResNet): 99.73863636363637
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 112 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.3532608695652174
+No-Target Score (VGG16): 92.40217391304347
+With-Target Score (InceptionV3): 0.4076086956521739
+No-Target Score (InceptionV3): 60.39673913043478
+With-Target Score (ResNet): 91.53804347826086
+No-Target Score (ResNet): 99.75
+##################################################
+| Iter: 5 | LR: 0.03137 | Eps: 128 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.38020833333333337
+No-Target Score (VGG16): 92.50520833333333
+With-Target Score (InceptionV3): 0.4114583333333333
+No-Target Score (InceptionV3): 61.09375
+With-Target Score (ResNet): 91.859375
+No-Target Score (ResNet): 99.76041666666666
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 16 |
+With-Target Score (VGG16): 0.375
+No-Target Score (VGG16): 92.495
+With-Target Score (InceptionV3): 0.395
+No-Target Score (InceptionV3): 60.985
+With-Target Score (ResNet): 92.11500000000001
+No-Target Score (ResNet): 99.765
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 32 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.4086538461538462
+No-Target Score (VGG16): 92.57692307692308
+With-Target Score (InceptionV3): 0.40384615384615385
+No-Target Score (InceptionV3): 61.47115384615385
+With-Target Score (ResNet): 92.36057692307692
+No-Target Score (ResNet): 99.77403846153847
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 48 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.4212962962962963
+No-Target Score (VGG16): 92.75
+With-Target Score (InceptionV3): 0.4444444444444444
+No-Target Score (InceptionV3): 62.35648148148149
+With-Target Score (ResNet): 92.5787037037037
+No-Target Score (ResNet): 99.7824074074074
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 64 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.43750000000000006
+No-Target Score (VGG16): 92.94642857142857
+With-Target Score (InceptionV3): 0.5
+No-Target Score (InceptionV3): 63.379464285714285
+With-Target Score (ResNet): 92.82589285714286
+No-Target Score (ResNet): 99.79017857142857
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 80 |
+With-Target Score (VGG16): 0.4267241379310345
+No-Target Score (VGG16): 93.15517241379311
+With-Target Score (InceptionV3): 0.5301724137931034
+No-Target Score (InceptionV3): 64.38793103448276
+With-Target Score (ResNet): 92.97413793103448
+No-Target Score (ResNet): 99.79741379310344
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 96 |
+With-Target Score (VGG16): 0.4208333333333333
+No-Target Score (VGG16): 93.325
+With-Target Score (InceptionV3): 0.5666666666666667
+No-Target Score (InceptionV3): 65.35416666666667
+With-Target Score (ResNet): 93.14583333333334
+No-Target Score (ResNet): 99.8
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 112 |
+With-Target Score (VGG16): 0.4153225806451613
+No-Target Score (VGG16): 93.50806451612902
+With-Target Score (InceptionV3): 0.6048387096774194
+No-Target Score (InceptionV3): 66.25
+With-Target Score (ResNet): 93.31451612903226
+No-Target Score (ResNet): 99.80241935483872
+##################################################
+| Iter: 5 | LR: 0.06275 | Eps: 128 |
+With-Target Score (VGG16): 0.41015625
+No-Target Score (VGG16): 93.67578125
+With-Target Score (InceptionV3): 0.640625
+No-Target Score (InceptionV3): 67.1015625
+With-Target Score (ResNet): 93.46484375
+No-Target Score (ResNet): 99.80859375
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 16 |
+With-Target Score (VGG16): 0.4090909090909091
+No-Target Score (VGG16): 93.62878787878788
+With-Target Score (InceptionV3): 0.6287878787878788
+No-Target Score (InceptionV3): 66.86363636363636
+With-Target Score (ResNet): 93.44696969696969
+No-Target Score (ResNet): 99.80681818181819
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 32 |
+With-Target Score (VGG16): 0.41911764705882354
+No-Target Score (VGG16): 93.68382352941177
+With-Target Score (InceptionV3): 0.6360294117647058
+No-Target Score (InceptionV3): 67.14338235294117
+With-Target Score (ResNet): 93.42279411764706
+No-Target Score (ResNet): 99.8125
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 48 |
+With-Target Score (VGG16): 0.4214285714285715
+No-Target Score (VGG16): 93.79285714285714
+With-Target Score (InceptionV3): 0.6392857142857142
+No-Target Score (InceptionV3): 67.68571428571428
+With-Target Score (ResNet): 93.48571428571428
+No-Target Score (ResNet): 99.81785714285715
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 64 |
+With-Target Score (VGG16): 0.43750000000000006
+No-Target Score (VGG16): 93.91666666666667
+With-Target Score (InceptionV3): 0.642361111111111
+No-Target Score (InceptionV3): 68.375
+With-Target Score (ResNet): 93.53472222222223
+No-Target Score (ResNet): 99.82291666666666
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 80 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.445945945945946
+No-Target Score (VGG16): 94.05743243243244
+With-Target Score (InceptionV3): 0.6621621621621622
+No-Target Score (InceptionV3): 69.10472972972973
+With-Target Score (ResNet): 93.5
+No-Target Score (ResNet): 99.82770270270271
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 96 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.4473684210526315
+No-Target Score (VGG16): 94.19736842105263
+With-Target Score (InceptionV3): 0.674342105263158
+No-Target Score (InceptionV3): 69.86513157894737
+With-Target Score (ResNet): 93.43092105263158
+No-Target Score (ResNet): 99.83223684210526
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 112 |
+With-Target Score (VGG16): 0.44551282051282054
+No-Target Score (VGG16): 94.33974358974359
+With-Target Score (InceptionV3): 0.6858974358974359
+No-Target Score (InceptionV3): 70.58653846153847
+With-Target Score (ResNet): 93.40384615384615
+No-Target Score (ResNet): 99.83653846153845
+##################################################
+| Iter: 5 | LR: 0.12549 | Eps: 128 |
+With-Target Score (VGG16): 0.44375
+No-Target Score (VGG16): 94.47187500000001
+With-Target Score (InceptionV3): 0.7000000000000001
+No-Target Score (InceptionV3): 71.28750000000001
+With-Target Score (ResNet): 93.325
+No-Target Score (ResNet): 99.840625
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 16 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.4512195121951219
+No-Target Score (VGG16): 94.41158536585365
+With-Target Score (InceptionV3): 0.6951219512195123
+No-Target Score (InceptionV3): 70.95731707317073
+With-Target Score (ResNet): 93.32621951219512
+No-Target Score (ResNet): 99.84146341463415
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 32 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.45535714285714285
+No-Target Score (VGG16): 94.43452380952381
+With-Target Score (InceptionV3): 0.699404761904762
+No-Target Score (InceptionV3): 71.11904761904762
+With-Target Score (ResNet): 93.15178571428572
+No-Target Score (ResNet): 99.84226190476191
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 48 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.4622093023255814
+No-Target Score (VGG16): 94.52325581395348
+With-Target Score (InceptionV3): 0.6976744186046512
+No-Target Score (InceptionV3): 71.51744186046511
+With-Target Score (ResNet): 92.93895348837209
+No-Target Score (ResNet): 99.84011627906978
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 64 |
+++++++++++++++++++++++++++++++++++++++++VGG16 TEST SOTA PERFORMANCE++++++++++++++++++++++++++++++++++++++++
+With-Target Score (VGG16): 0.46875
+No-Target Score (VGG16): 94.63068181818181
+With-Target Score (InceptionV3): 0.7017045454545454
+No-Target Score (InceptionV3): 72.06818181818181
+With-Target Score (ResNet): 92.51136363636364
+No-Target Score (ResNet): 99.8409090909091
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 80 |
+With-Target Score (VGG16): 0.46666666666666673
+No-Target Score (VGG16): 94.74444444444444
+With-Target Score (InceptionV3): 0.7055555555555555
+No-Target Score (InceptionV3): 72.63055555555556
+With-Target Score (ResNet): 92.11111111111111
+No-Target Score (ResNet): 99.84444444444445
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 96 |
+With-Target Score (VGG16): 0.4646739130434782
+No-Target Score (VGG16): 94.84782608695652
+With-Target Score (InceptionV3): 0.7038043478260869
+No-Target Score (InceptionV3): 73.19021739130434
+With-Target Score (ResNet): 91.71195652173914
+No-Target Score (ResNet): 99.84510869565217
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 112 |
+With-Target Score (VGG16): 0.46276595744680854
+No-Target Score (VGG16): 94.94946808510637
+With-Target Score (InceptionV3): 0.6968085106382979
+No-Target Score (InceptionV3): 73.74202127659575
+With-Target Score (ResNet): 91.21542553191489
+No-Target Score (ResNet): 99.84840425531914
+##################################################
+| Iter: 5 | LR: 0.25098 | Eps: 128 |
+With-Target Score (VGG16): 0.4609375
+No-Target Score (VGG16): 95.05208333333334
+With-Target Score (InceptionV3): 0.6927083333333334
+No-Target Score (InceptionV3): 74.28385416666666
+With-Target Score (ResNet): 90.61458333333333
+No-Target Score (ResNet): 99.8515625
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 16 |
+With-Target Score (VGG16): 0.4591836734693878
+No-Target Score (VGG16): 94.99234693877551
+With-Target Score (InceptionV3): 0.6811224489795918
+No-Target Score (InceptionV3): 73.97448979591836
+With-Target Score (ResNet): 90.67857142857143
+No-Target Score (ResNet): 99.84948979591837
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 32 |
+With-Target Score (VGG16): 0.46249999999999997
+No-Target Score (VGG16): 95.0125
+With-Target Score (InceptionV3): 0.6775
+No-Target Score (InceptionV3): 74.02
+With-Target Score (ResNet): 90.58
+No-Target Score (ResNet): 99.85000000000001
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 48 |
+With-Target Score (VGG16): 0.46568627450980393
+No-Target Score (VGG16): 95.08088235294117
+With-Target Score (InceptionV3): 0.678921568627451
+No-Target Score (InceptionV3): 74.29656862745098
+With-Target Score (ResNet): 90.33088235294117
+No-Target Score (ResNet): 99.84558823529412
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 64 |
+With-Target Score (VGG16): 0.46394230769230765
+No-Target Score (VGG16): 95.15625
+With-Target Score (InceptionV3): 0.6778846153846153
+No-Target Score (InceptionV3): 74.67307692307692
+With-Target Score (ResNet): 89.79567307692308
+No-Target Score (ResNet): 99.84615384615385
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 80 |
+With-Target Score (VGG16): 0.45990566037735847
+No-Target Score (VGG16): 95.24056603773585
+With-Target Score (InceptionV3): 0.6816037735849056
+No-Target Score (InceptionV3): 75.09905660377359
+With-Target Score (ResNet): 89.07075471698114
+No-Target Score (ResNet): 99.84669811320754
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 96 |
+With-Target Score (VGG16): 0.45601851851851855
+No-Target Score (VGG16): 95.32175925925927
+With-Target Score (InceptionV3): 0.6759259259259259
+No-Target Score (InceptionV3): 75.52546296296296
+With-Target Score (ResNet): 88.16666666666667
+No-Target Score (ResNet): 99.84722222222221
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 112 |
+With-Target Score (VGG16): 0.45227272727272727
+No-Target Score (VGG16): 95.40454545454546
+With-Target Score (InceptionV3): 0.6659090909090909
+No-Target Score (InceptionV3): 75.96136363636363
+With-Target Score (ResNet): 87.1590909090909
+No-Target Score (ResNet): 99.85000000000001
+##################################################
+| Iter: 5 | LR: 0.50196 | Eps: 128 |
+With-Target Score (VGG16): 0.45089285714285715
+No-Target Score (VGG16): 95.47991071428571
+With-Target Score (InceptionV3): 0.65625
+No-Target Score (InceptionV3): 76.38169642857143
+With-Target Score (ResNet): 86.03794642857143
+No-Target Score (ResNet): 99.85267857142858
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 16 |
+With-Target Score (VGG16): 0.44956140350877194
+No-Target Score (VGG16): 95.52850877192982
+With-Target Score (InceptionV3): 0.6469298245614036
+No-Target Score (InceptionV3): 76.29605263157895
+With-Target Score (ResNet): 86.2390350877193
+No-Target Score (ResNet): 99.8530701754386
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 32 |
+With-Target Score (VGG16): 0.45043103448275856
+No-Target Score (VGG16): 95.56896551724138
+With-Target Score (InceptionV3): 0.6379310344827587
+No-Target Score (InceptionV3): 76.23922413793103
+With-Target Score (ResNet): 86.4396551724138
+No-Target Score (ResNet): 99.85344827586206
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 48 |
+With-Target Score (VGG16): 0.4491525423728814
+No-Target Score (VGG16): 95.60593220338983
+With-Target Score (InceptionV3): 0.6313559322033898
+No-Target Score (InceptionV3): 76.20762711864407
+With-Target Score (ResNet): 86.63135593220339
+No-Target Score (ResNet): 99.85381355932203
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 64 |
+With-Target Score (VGG16): 0.4479166666666667
+No-Target Score (VGG16): 95.6375
+With-Target Score (InceptionV3): 0.6270833333333333
+No-Target Score (InceptionV3): 76.1625
+With-Target Score (ResNet): 86.80833333333334
+No-Target Score (ResNet): 99.85416666666667
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 80 |
+With-Target Score (VGG16): 0.44467213114754095
+No-Target Score (VGG16): 95.67213114754098
+With-Target Score (InceptionV3): 0.6209016393442622
+No-Target Score (InceptionV3): 76.14754098360656
+With-Target Score (ResNet): 86.98770491803278
+No-Target Score (ResNet): 99.85450819672131
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 96 |
+With-Target Score (VGG16): 0.4435483870967742
+No-Target Score (VGG16): 95.7116935483871
+With-Target Score (InceptionV3): 0.6129032258064516
+No-Target Score (InceptionV3): 76.13709677419355
+With-Target Score (ResNet): 87.16532258064517
+No-Target Score (ResNet): 99.85483870967742
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 112 |
+With-Target Score (VGG16): 0.4424603174603175
+No-Target Score (VGG16): 95.75396825396825
+With-Target Score (InceptionV3): 0.6071428571428571
+No-Target Score (InceptionV3): 76.10912698412699
+With-Target Score (ResNet): 87.33730158730158
+No-Target Score (ResNet): 99.85515873015873
+##################################################
+| Iter: 10 | LR: 0.00784 | Eps: 128 |
+With-Target Score (VGG16): 0.44140624999999994
+No-Target Score (VGG16): 95.791015625
+With-Target Score (InceptionV3): 0.599609375
+No-Target Score (InceptionV3): 76.078125
+With-Target Score (ResNet): 87.501953125
+No-Target Score (ResNet): 99.85546875
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 16 |
+With-Target Score (VGG16): 0.4403846153846154
+No-Target Score (VGG16): 95.825
+With-Target Score (InceptionV3): 0.5923076923076923
+No-Target Score (InceptionV3): 75.99615384615385
+With-Target Score (ResNet): 87.69038461538462
+No-Target Score (ResNet): 99.8576923076923
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 32 |
+With-Target Score (VGG16): 0.43939393939393934
+No-Target Score (VGG16): 95.86363636363636
+With-Target Score (InceptionV3): 0.5946969696969697
+No-Target Score (InceptionV3): 76.07765151515152
+With-Target Score (ResNet): 87.87689393939394
+No-Target Score (ResNet): 99.85984848484848
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 48 |
+With-Target Score (VGG16): 0.43656716417910446
+No-Target Score (VGG16): 95.8973880597015
+With-Target Score (InceptionV3): 0.6100746268656716
+No-Target Score (InceptionV3): 76.19776119402985
+With-Target Score (ResNet): 88.05597014925372
+No-Target Score (ResNet): 99.86194029850746
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 64 |
+With-Target Score (VGG16): 0.4338235294117647
+No-Target Score (VGG16): 95.93933823529412
+With-Target Score (InceptionV3): 0.6176470588235293
+No-Target Score (InceptionV3): 76.3345588235294
+With-Target Score (ResNet): 88.22977941176471
+No-Target Score (ResNet): 99.86397058823529
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 80 |
+With-Target Score (VGG16): 0.43478260869565216
+No-Target Score (VGG16): 95.9873188405797
+With-Target Score (InceptionV3): 0.6304347826086957
+No-Target Score (InceptionV3): 76.45471014492755
+With-Target Score (ResNet): 88.40036231884058
+No-Target Score (ResNet): 99.86594202898551
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 96 |
+With-Target Score (VGG16): 0.4339285714285714
+No-Target Score (VGG16): 96.02142857142857
+With-Target Score (InceptionV3): 0.6410714285714286
+No-Target Score (InceptionV3): 76.59642857142858
+With-Target Score (ResNet): 88.56607142857142
+No-Target Score (ResNet): 99.86785714285715
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 112 |
+With-Target Score (VGG16): 0.43309859154929575
+No-Target Score (VGG16): 96.05985915492957
+With-Target Score (InceptionV3): 0.6496478873239436
+No-Target Score (InceptionV3): 76.70950704225352
+With-Target Score (ResNet): 88.72711267605634
+No-Target Score (ResNet): 99.86971830985915
+##################################################
+| Iter: 10 | LR: 0.01569 | Eps: 128 |
+With-Target Score (VGG16): 0.4340277777777778
+No-Target Score (VGG16): 96.0954861111111
+With-Target Score (InceptionV3): 0.65625
+No-Target Score (InceptionV3): 76.81944444444444
+With-Target Score (ResNet): 88.88368055555556
+No-Target Score (ResNet): 99.87152777777779
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 16 |
+With-Target Score (VGG16): 0.43150684931506855
+No-Target Score (VGG16): 96.12328767123289
+With-Target Score (InceptionV3): 0.648972602739726
+No-Target Score (InceptionV3): 76.77397260273973
+With-Target Score (ResNet): 89.03424657534246
+No-Target Score (ResNet): 99.87328767123287
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 32 |
+With-Target Score (VGG16): 0.4290540540540541
+No-Target Score (VGG16): 96.16047297297298
+With-Target Score (InceptionV3): 0.6537162162162162
+No-Target Score (InceptionV3): 76.84628378378379
+With-Target Score (ResNet): 89.18243243243244
+No-Target Score (ResNet): 99.875
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 48 |
+With-Target Score (VGG16): 0.4266666666666667
+No-Target Score (VGG16): 96.2
+With-Target Score (InceptionV3): 0.675
+No-Target Score (InceptionV3): 77.02
+With-Target Score (ResNet): 89.32666666666667
+No-Target Score (ResNet): 99.87666666666667
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 64 |
+With-Target Score (VGG16): 0.4259868421052632
+No-Target Score (VGG16): 96.23848684210526
+With-Target Score (InceptionV3): 0.6924342105263157
+No-Target Score (InceptionV3): 77.24013157894737
+With-Target Score (ResNet): 89.4671052631579
+No-Target Score (ResNet): 99.8782894736842
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 80 |
+With-Target Score (VGG16): 0.4237012987012987
+No-Target Score (VGG16): 96.28246753246754
+With-Target Score (InceptionV3): 0.711038961038961
+No-Target Score (InceptionV3): 77.47727272727273
+With-Target Score (ResNet): 89.6038961038961
+No-Target Score (ResNet): 99.87987012987013
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 96 |
+With-Target Score (VGG16): 0.4230769230769231
+No-Target Score (VGG16): 96.32532051282051
+With-Target Score (InceptionV3): 0.7403846153846154
+No-Target Score (InceptionV3): 77.69871794871794
+With-Target Score (ResNet): 89.73717948717949
+No-Target Score (ResNet): 99.88141025641025
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 112 |
+With-Target Score (VGG16): 0.4208860759493671
+No-Target Score (VGG16): 96.36550632911393
+With-Target Score (InceptionV3): 0.7563291139240506
+No-Target Score (InceptionV3): 77.93037974683544
+With-Target Score (ResNet): 89.86708860759494
+No-Target Score (ResNet): 99.88291139240506
+##################################################
+| Iter: 10 | LR: 0.03137 | Eps: 128 |
+With-Target Score (VGG16): 0.41875
+No-Target Score (VGG16): 96.3984375
+With-Target Score (InceptionV3): 0.7765625
+No-Target Score (InceptionV3): 78.1453125
+With-Target Score (ResNet): 89.99374999999999
+No-Target Score (ResNet): 99.884375
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 16 |
+With-Target Score (VGG16): 0.4166666666666667
+No-Target Score (VGG16): 96.41203703703704
+With-Target Score (InceptionV3): 0.7716049382716049
+No-Target Score (InceptionV3): 78.08796296296296
+With-Target Score (ResNet): 90.11265432098764
+No-Target Score (ResNet): 99.8858024691358
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 32 |
+With-Target Score (VGG16): 0.41920731707317077
+No-Target Score (VGG16): 96.4344512195122
+With-Target Score (InceptionV3): 0.7698170731707317
+No-Target Score (InceptionV3): 78.14634146341464
+With-Target Score (ResNet): 90.23323170731707
+No-Target Score (ResNet): 99.88719512195122
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 48 |
+With-Target Score (VGG16): 0.41716867469879515
+No-Target Score (VGG16): 96.46987951807229
+With-Target Score (InceptionV3): 0.7801204819277109
+No-Target Score (InceptionV3): 78.29216867469879
+With-Target Score (ResNet): 90.35090361445783
+No-Target Score (ResNet): 99.88855421686746
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 64 |
+With-Target Score (VGG16): 0.4166666666666667
+No-Target Score (VGG16): 96.50595238095238
+With-Target Score (InceptionV3): 0.7901785714285714
+No-Target Score (InceptionV3): 78.5
+With-Target Score (ResNet): 90.46577380952381
+No-Target Score (ResNet): 99.88988095238095
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 80 |
+With-Target Score (VGG16): 0.41470588235294115
+No-Target Score (VGG16): 96.53970588235295
+With-Target Score (InceptionV3): 0.8102941176470588
+No-Target Score (InceptionV3): 78.73088235294118
+With-Target Score (ResNet): 90.57794117647059
+No-Target Score (ResNet): 99.89117647058823
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 96 |
+With-Target Score (VGG16): 0.4127906976744186
+No-Target Score (VGG16): 96.57848837209302
+With-Target Score (InceptionV3): 0.8226744186046511
+No-Target Score (InceptionV3): 78.96220930232558
+With-Target Score (ResNet): 90.6875
+No-Target Score (ResNet): 99.89244186046513
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 112 |
+With-Target Score (VGG16): 0.4109195402298851
+No-Target Score (VGG16): 96.61350574712644
+With-Target Score (InceptionV3): 0.8347701149425287
+No-Target Score (InceptionV3): 79.19540229885057
+With-Target Score (ResNet): 90.79454022988506
+No-Target Score (ResNet): 99.89367816091954
+##################################################
+| Iter: 10 | LR: 0.06275 | Eps: 128 |
+With-Target Score (VGG16): 0.4090909090909091
+No-Target Score (VGG16): 96.64914772727272
+With-Target Score (InceptionV3): 0.8366477272727272
+No-Target Score (InceptionV3): 79.41761363636364
+With-Target Score (ResNet): 90.89914772727272
+No-Target Score (ResNet): 99.89488636363636
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 16 |
+With-Target Score (VGG16): 0.4101123595505618
+No-Target Score (VGG16): 96.66432584269663
+With-Target Score (InceptionV3): 0.8356741573033708
+No-Target Score (InceptionV3): 79.3623595505618
+With-Target Score (ResNet): 90.98595505617978
+No-Target Score (ResNet): 99.89606741573034
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 32 |
+With-Target Score (VGG16): 0.41111111111111115
+No-Target Score (VGG16): 96.6875
+With-Target Score (InceptionV3): 0.8347222222222223
+No-Target Score (InceptionV3): 79.42222222222223
+With-Target Score (ResNet): 91.08194444444445
+No-Target Score (ResNet): 99.89722222222223
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 48 |
+With-Target Score (VGG16): 0.4093406593406594
+No-Target Score (VGG16): 96.71703296703296
+With-Target Score (InceptionV3): 0.8310439560439561
+No-Target Score (InceptionV3): 79.56043956043956
+With-Target Score (ResNet): 91.17445054945054
+No-Target Score (ResNet): 99.89835164835165
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 64 |
+With-Target Score (VGG16): 0.40625
+No-Target Score (VGG16): 96.74728260869566
+With-Target Score (InceptionV3): 0.8301630434782609
+No-Target Score (InceptionV3): 79.72961956521739
+With-Target Score (ResNet): 91.2649456521739
+No-Target Score (ResNet): 99.89945652173913
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 80 |
+With-Target Score (VGG16): 0.40456989247311825
+No-Target Score (VGG16): 96.78091397849462
+With-Target Score (InceptionV3): 0.8346774193548387
+No-Target Score (InceptionV3): 79.92876344086022
+With-Target Score (ResNet): 91.35887096774194
+No-Target Score (ResNet): 99.90053763440861
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 96 |
+With-Target Score (VGG16): 0.4029255319148936
+No-Target Score (VGG16): 96.81382978723404
+With-Target Score (InceptionV3): 0.8377659574468085
+No-Target Score (InceptionV3): 80.13297872340426
+With-Target Score (ResNet): 91.44414893617021
+No-Target Score (ResNet): 99.90159574468085
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 112 |
+With-Target Score (VGG16): 0.4013157894736842
+No-Target Score (VGG16): 96.84605263157894
+With-Target Score (InceptionV3): 0.838157894736842
+No-Target Score (InceptionV3): 80.33684210526316
+With-Target Score (ResNet): 91.52894736842106
+No-Target Score (ResNet): 99.90263157894736
+##################################################
+| Iter: 10 | LR: 0.12549 | Eps: 128 |
+With-Target Score (VGG16): 0.39973958333333337
+No-Target Score (VGG16): 96.87369791666667
+With-Target Score (InceptionV3): 0.8411458333333334
+No-Target Score (InceptionV3): 80.5390625
+With-Target Score (ResNet): 91.60807291666667
+No-Target Score (ResNet): 99.90364583333333
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 16 |
+With-Target Score (VGG16): 0.3994845360824742
+No-Target Score (VGG16): 96.88015463917526
+With-Target Score (InceptionV3): 0.8350515463917525
+No-Target Score (InceptionV3): 80.47680412371135
+With-Target Score (ResNet): 91.68170103092783
+No-Target Score (ResNet): 99.90335051546391
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 32 |
+With-Target Score (VGG16): 0.4005102040816327
+No-Target Score (VGG16): 96.89668367346938
+With-Target Score (InceptionV3): 0.832908163265306
+No-Target Score (InceptionV3): 80.52678571428571
+With-Target Score (ResNet): 91.74617346938776
+No-Target Score (ResNet): 99.90433673469387
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 48 |
+With-Target Score (VGG16): 0.39898989898989895
+No-Target Score (VGG16): 96.92171717171718
+With-Target Score (InceptionV3): 0.8333333333333334
+No-Target Score (InceptionV3): 80.64646464646465
+With-Target Score (ResNet): 91.7979797979798
+No-Target Score (ResNet): 99.90530303030303
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 64 |
+With-Target Score (VGG16): 0.3975
+No-Target Score (VGG16): 96.94874999999999
+With-Target Score (InceptionV3): 0.83125
+No-Target Score (InceptionV3): 80.79875
+With-Target Score (ResNet): 91.835
+No-Target Score (ResNet): 99.90625
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 80 |
+With-Target Score (VGG16): 0.39603960396039606
+No-Target Score (VGG16): 96.97648514851484
+With-Target Score (InceptionV3): 0.8316831683168318
+No-Target Score (InceptionV3): 80.97029702970298
+With-Target Score (ResNet): 91.86633663366337
+No-Target Score (ResNet): 99.90717821782178
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 96 |
+With-Target Score (VGG16): 0.39460784313725494
+No-Target Score (VGG16): 97.00490196078432
+With-Target Score (InceptionV3): 0.8333333333333334
+No-Target Score (InceptionV3): 81.14338235294117
+With-Target Score (ResNet): 91.88848039215686
+No-Target Score (ResNet): 99.90808823529412
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 112 |
+With-Target Score (VGG16): 0.3932038834951457
+No-Target Score (VGG16): 97.03398058252426
+With-Target Score (InceptionV3): 0.8337378640776698
+No-Target Score (InceptionV3): 81.32038834951456
+With-Target Score (ResNet): 91.8883495145631
+No-Target Score (ResNet): 99.90898058252428
+##################################################
+| Iter: 10 | LR: 0.25098 | Eps: 128 |
+With-Target Score (VGG16): 0.391826923076923
+No-Target Score (VGG16): 97.0625
+With-Target Score (InceptionV3): 0.8317307692307692
+No-Target Score (InceptionV3): 81.49879807692308
+With-Target Score (ResNet): 91.859375
+No-Target Score (ResNet): 99.90985576923077
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 16 |
+With-Target Score (VGG16): 0.3904761904761905
+No-Target Score (VGG16): 97.0702380952381
+With-Target Score (InceptionV3): 0.8250000000000001
+No-Target Score (InceptionV3): 81.42738095238096
+With-Target Score (ResNet): 91.91666666666667
+No-Target Score (ResNet): 99.91071428571429
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 32 |
+With-Target Score (VGG16): 0.392688679245283
+No-Target Score (VGG16): 97.08844339622642
+With-Target Score (InceptionV3): 0.8219339622641508
+No-Target Score (InceptionV3): 81.46698113207546
+With-Target Score (ResNet): 91.95990566037736
+No-Target Score (ResNet): 99.91155660377359
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 48 |
+With-Target Score (VGG16): 0.39252336448598135
+No-Target Score (VGG16): 97.10981308411215
+With-Target Score (InceptionV3): 0.8200934579439252
+No-Target Score (InceptionV3): 81.57126168224299
+With-Target Score (ResNet): 91.97079439252337
+No-Target Score (ResNet): 99.91238317757009
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 64 |
+With-Target Score (VGG16): 0.39120370370370366
+No-Target Score (VGG16): 97.13078703703704
+With-Target Score (InceptionV3): 0.8263888888888888
+No-Target Score (InceptionV3): 81.71296296296296
+With-Target Score (ResNet): 91.92824074074075
+No-Target Score (ResNet): 99.91203703703704
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 80 |
+With-Target Score (VGG16): 0.38990825688073394
+No-Target Score (VGG16): 97.15481651376146
+With-Target Score (InceptionV3): 0.826834862385321
+No-Target Score (InceptionV3): 81.86582568807339
+With-Target Score (ResNet): 91.85665137614679
+No-Target Score (ResNet): 99.91284403669725
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 96 |
+With-Target Score (VGG16): 0.3886363636363636
+No-Target Score (VGG16): 97.17727272727272
+With-Target Score (InceptionV3): 0.8238636363636362
+No-Target Score (InceptionV3): 82.0284090909091
+With-Target Score (ResNet): 91.74204545454545
+No-Target Score (ResNet): 99.91363636363636
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 112 |
+With-Target Score (VGG16): 0.38738738738738737
+No-Target Score (VGG16): 97.20157657657657
+With-Target Score (InceptionV3): 0.8186936936936937
+No-Target Score (InceptionV3): 82.1858108108108
+With-Target Score (ResNet): 91.60247747747748
+No-Target Score (ResNet): 99.9132882882883
+##################################################
+| Iter: 10 | LR: 0.50196 | Eps: 128 |
+With-Target Score (VGG16): 0.3861607142857143
+No-Target Score (VGG16): 97.22544642857143
+With-Target Score (InceptionV3): 0.8136160714285714
+No-Target Score (InceptionV3): 82.34375
+With-Target Score (ResNet): 91.42410714285715
+No-Target Score (ResNet): 99.91183035714286
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 16 |
+With-Target Score (VGG16): 0.3849557522123894
+No-Target Score (VGG16): 97.24778761061947
+With-Target Score (InceptionV3): 0.8108407079646017
+No-Target Score (InceptionV3): 82.41814159292036
+With-Target Score (ResNet): 91.49115044247787
+No-Target Score (ResNet): 99.91261061946902
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 32 |
+With-Target Score (VGG16): 0.3837719298245614
+No-Target Score (VGG16): 97.26864035087719
+With-Target Score (InceptionV3): 0.8168859649122806
+No-Target Score (InceptionV3): 82.52521929824562
+With-Target Score (ResNet): 91.56469298245614
+No-Target Score (ResNet): 99.91337719298245
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 48 |
+With-Target Score (VGG16): 0.3826086956521739
+No-Target Score (VGG16): 97.2891304347826
+With-Target Score (InceptionV3): 0.8217391304347825
+No-Target Score (InceptionV3): 82.62934782608696
+With-Target Score (ResNet): 91.63804347826087
+No-Target Score (ResNet): 99.9141304347826
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 64 |
+With-Target Score (VGG16): 0.3814655172413793
+No-Target Score (VGG16): 97.30926724137932
+With-Target Score (InceptionV3): 0.8232758620689655
+No-Target Score (InceptionV3): 82.72737068965517
+With-Target Score (ResNet): 91.71012931034483
+No-Target Score (ResNet): 99.91487068965517
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 80 |
+With-Target Score (VGG16): 0.3803418803418804
+No-Target Score (VGG16): 97.32905982905983
+With-Target Score (InceptionV3): 0.829059829059829
+No-Target Score (InceptionV3): 82.83547008547009
+With-Target Score (ResNet): 91.78098290598291
+No-Target Score (ResNet): 99.9155982905983
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 96 |
+With-Target Score (VGG16): 0.3802966101694915
+No-Target Score (VGG16): 97.34851694915254
+With-Target Score (InceptionV3): 0.8305084745762711
+No-Target Score (InceptionV3): 82.93538135593221
+With-Target Score (ResNet): 91.85063559322035
+No-Target Score (ResNet): 99.91631355932203
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 112 |
+With-Target Score (VGG16): 0.3792016806722689
+No-Target Score (VGG16): 97.36764705882352
+With-Target Score (InceptionV3): 0.832983193277311
+No-Target Score (InceptionV3): 83.03886554621849
+With-Target Score (ResNet): 91.91911764705883
+No-Target Score (ResNet): 99.91701680672269
+##################################################
+| Iter: 20 | LR: 0.00784 | Eps: 128 |
+With-Target Score (VGG16): 0.37916666666666665
+No-Target Score (VGG16): 97.38645833333334
+With-Target Score (InceptionV3): 0.8375
+No-Target Score (InceptionV3): 83.13645833333332
+With-Target Score (ResNet): 91.98645833333333
+No-Target Score (ResNet): 99.91770833333334
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 16 |
+With-Target Score (VGG16): 0.378099173553719
+No-Target Score (VGG16): 97.40599173553719
+With-Target Score (InceptionV3): 0.831611570247934
+No-Target Score (InceptionV3): 83.2004132231405
+With-Target Score (ResNet): 92.05268595041322
+No-Target Score (ResNet): 99.91838842975207
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 32 |
+With-Target Score (VGG16): 0.3770491803278689
+No-Target Score (VGG16): 97.42520491803278
+With-Target Score (InceptionV3): 0.8360655737704917
+No-Target Score (InceptionV3): 83.29303278688525
+With-Target Score (ResNet): 92.11782786885246
+No-Target Score (ResNet): 99.91905737704919
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 48 |
+With-Target Score (VGG16): 0.3780487804878049
+No-Target Score (VGG16): 97.44308943089432
+With-Target Score (InceptionV3): 0.8445121951219513
+No-Target Score (InceptionV3): 83.40650406504065
+With-Target Score (ResNet): 92.1819105691057
+No-Target Score (ResNet): 99.91971544715447
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 64 |
+With-Target Score (VGG16): 0.3790322580645161
+No-Target Score (VGG16): 97.46068548387098
+With-Target Score (InceptionV3): 0.8528225806451613
+No-Target Score (InceptionV3): 83.52822580645162
+With-Target Score (ResNet): 92.24495967741936
+No-Target Score (ResNet): 99.92036290322581
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 80 |
+With-Target Score (VGG16): 0.38
+No-Target Score (VGG16): 97.479
+With-Target Score (InceptionV3): 0.856
+No-Target Score (InceptionV3): 83.65
+With-Target Score (ResNet): 92.30699999999999
+No-Target Score (ResNet): 99.921
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 96 |
+With-Target Score (VGG16): 0.3799603174603175
+No-Target Score (VGG16): 97.49503968253968
+With-Target Score (InceptionV3): 0.8670634920634921
+No-Target Score (InceptionV3): 83.76587301587301
+With-Target Score (ResNet): 92.36805555555556
+No-Target Score (ResNet): 99.92162698412699
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 112 |
+With-Target Score (VGG16): 0.37893700787401574
+No-Target Score (VGG16): 97.51279527559055
+With-Target Score (InceptionV3): 0.8710629921259841
+No-Target Score (InceptionV3): 83.88287401574803
+With-Target Score (ResNet): 92.42814960629921
+No-Target Score (ResNet): 99.92224409448819
+##################################################
+| Iter: 20 | LR: 0.01569 | Eps: 128 |
+With-Target Score (VGG16): 0.37890625
+No-Target Score (VGG16): 97.52734375
+With-Target Score (InceptionV3): 0.87109375
+No-Target Score (InceptionV3): 83.9951171875
+With-Target Score (ResNet): 92.4873046875
+No-Target Score (ResNet): 99.9228515625
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 16 |
+With-Target Score (VGG16): 0.37790697674418605
+No-Target Score (VGG16): 97.54360465116278
+With-Target Score (InceptionV3): 0.8662790697674418
+No-Target Score (InceptionV3): 84.04941860465117
+With-Target Score (ResNet): 92.54554263565892
+No-Target Score (ResNet): 99.9234496124031
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 32 |
+With-Target Score (VGG16): 0.3778846153846154
+No-Target Score (VGG16): 97.56057692307692
+With-Target Score (InceptionV3): 0.8701923076923077
+No-Target Score (InceptionV3): 84.13173076923077
+With-Target Score (ResNet): 92.60288461538462
+No-Target Score (ResNet): 99.92403846153847
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 48 |
+With-Target Score (VGG16): 0.3778625954198473
+No-Target Score (VGG16): 97.57824427480915
+With-Target Score (InceptionV3): 0.8788167938931298
+No-Target Score (InceptionV3): 84.2328244274809
+With-Target Score (ResNet): 92.65935114503817
+No-Target Score (ResNet): 99.92461832061069
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 64 |
+With-Target Score (VGG16): 0.3768939393939394
+No-Target Score (VGG16): 97.59564393939394
+With-Target Score (InceptionV3): 0.8854166666666666
+No-Target Score (InceptionV3): 84.34280303030303
+With-Target Score (ResNet): 92.71496212121212
+No-Target Score (ResNet): 99.92518939393939
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 80 |
+With-Target Score (VGG16): 0.3768796992481203
+No-Target Score (VGG16): 97.61184210526316
+With-Target Score (InceptionV3): 0.8937969924812029
+No-Target Score (InceptionV3): 84.45394736842105
+With-Target Score (ResNet): 92.76973684210526
+No-Target Score (ResNet): 99.92575187969925
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 96 |
+With-Target Score (VGG16): 0.37593283582089554
+No-Target Score (VGG16): 97.6268656716418
+With-Target Score (InceptionV3): 0.8964552238805971
+No-Target Score (InceptionV3): 84.56623134328358
+With-Target Score (ResNet): 92.82369402985074
+No-Target Score (ResNet): 99.92630597014926
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 112 |
+With-Target Score (VGG16): 0.3759259259259259
+No-Target Score (VGG16): 97.64351851851852
+With-Target Score (InceptionV3): 0.899074074074074
+No-Target Score (InceptionV3): 84.67777777777778
+With-Target Score (ResNet): 92.87685185185185
+No-Target Score (ResNet): 99.92685185185185
+##################################################
+| Iter: 20 | LR: 0.03137 | Eps: 128 |
+With-Target Score (VGG16): 0.3759191176470588
+No-Target Score (VGG16): 97.65992647058823
+With-Target Score (InceptionV3): 0.900735294117647
+No-Target Score (InceptionV3): 84.78768382352942
+With-Target Score (ResNet): 92.92922794117648
+No-Target Score (ResNet): 99.92738970588235
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 16 |
+With-Target Score (VGG16): 0.375
+No-Target Score (VGG16): 97.67518248175182
+With-Target Score (InceptionV3): 0.8978102189781022
+No-Target Score (InceptionV3): 84.83576642335765
+With-Target Score (ResNet): 92.98083941605839
+No-Target Score (ResNet): 99.9279197080292
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 32 |
+With-Target Score (VGG16): 0.3740942028985507
+No-Target Score (VGG16): 97.69021739130434
+With-Target Score (InceptionV3): 0.8976449275362319
+No-Target Score (InceptionV3): 84.90398550724638
+With-Target Score (ResNet): 93.03079710144928
+No-Target Score (ResNet): 99.92844202898551
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 48 |
+With-Target Score (VGG16): 0.3732014388489209
+No-Target Score (VGG16): 97.70503597122303
+With-Target Score (InceptionV3): 0.9028776978417266
+No-Target Score (InceptionV3): 84.99460431654676
+With-Target Score (ResNet): 93.08093525179856
+No-Target Score (ResNet): 99.92895683453239
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 64 |
+With-Target Score (VGG16): 0.3732142857142857
+No-Target Score (VGG16): 97.72053571428572
+With-Target Score (InceptionV3): 0.9080357142857144
+No-Target Score (InceptionV3): 85.09107142857142
+With-Target Score (ResNet): 93.13035714285715
+No-Target Score (ResNet): 99.92946428571429
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 80 |
+With-Target Score (VGG16): 0.3732269503546099
+No-Target Score (VGG16): 97.73581560283688
+With-Target Score (InceptionV3): 0.9140070921985816
+No-Target Score (InceptionV3): 85.19148936170214
+With-Target Score (ResNet): 93.1790780141844
+No-Target Score (ResNet): 99.92996453900709
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 96 |
+With-Target Score (VGG16): 0.3723591549295775
+No-Target Score (VGG16): 97.75
+With-Target Score (InceptionV3): 0.9154929577464789
+No-Target Score (InceptionV3): 85.2931338028169
+With-Target Score (ResNet): 93.22711267605634
+No-Target Score (ResNet): 99.93045774647888
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 112 |
+With-Target Score (VGG16): 0.3715034965034965
+No-Target Score (VGG16): 97.76486013986015
+With-Target Score (InceptionV3): 0.9134615384615385
+No-Target Score (InceptionV3): 85.39423076923077
+With-Target Score (ResNet): 93.27447552447552
+No-Target Score (ResNet): 99.93094405594405
+##################################################
+| Iter: 20 | LR: 0.06275 | Eps: 128 |
+With-Target Score (VGG16): 0.3715277777777778
+No-Target Score (VGG16): 97.77951388888889
+With-Target Score (InceptionV3): 0.9140625
+No-Target Score (InceptionV3): 85.49392361111111
+With-Target Score (ResNet): 93.32118055555556
+No-Target Score (ResNet): 99.93142361111111
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 16 |
+With-Target Score (VGG16): 0.3706896551724138
+No-Target Score (VGG16): 97.79224137931034
+With-Target Score (InceptionV3): 0.9103448275862069
+No-Target Score (InceptionV3): 85.53448275862068
+With-Target Score (ResNet): 93.35775862068965
+No-Target Score (ResNet): 99.93189655172414
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 32 |
+With-Target Score (VGG16): 0.3707191780821918
+No-Target Score (VGG16): 97.8039383561644
+With-Target Score (InceptionV3): 0.9075342465753424
+No-Target Score (InceptionV3): 85.6070205479452
+With-Target Score (ResNet): 93.39982876712328
+No-Target Score (ResNet): 99.93236301369863
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 48 |
+With-Target Score (VGG16): 0.36989795918367346
+No-Target Score (VGG16): 97.81632653061224
+With-Target Score (InceptionV3): 0.9124149659863946
+No-Target Score (InceptionV3): 85.68792517006803
+With-Target Score (ResNet): 93.44047619047619
+No-Target Score (ResNet): 99.9328231292517
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 64 |
+With-Target Score (VGG16): 0.36908783783783783
+No-Target Score (VGG16): 97.83023648648648
+With-Target Score (InceptionV3): 0.9155405405405406
+No-Target Score (InceptionV3): 85.77787162162163
+With-Target Score (ResNet): 93.4831081081081
+No-Target Score (ResNet): 99.93327702702702
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 80 |
+With-Target Score (VGG16): 0.36828859060402686
+No-Target Score (VGG16): 97.84479865771813
+With-Target Score (InceptionV3): 0.9152684563758389
+No-Target Score (InceptionV3): 85.86912751677852
+With-Target Score (ResNet): 93.5260067114094
+No-Target Score (ResNet): 99.93372483221476
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 96 |
+With-Target Score (VGG16): 0.3675
+No-Target Score (VGG16): 97.85833333333333
+With-Target Score (InceptionV3): 0.915
+No-Target Score (InceptionV3): 85.96249999999999
+With-Target Score (ResNet): 93.56916666666667
+No-Target Score (ResNet): 99.93416666666667
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 112 |
+With-Target Score (VGG16): 0.3675496688741722
+No-Target Score (VGG16): 97.87251655629139
+With-Target Score (InceptionV3): 0.9172185430463575
+No-Target Score (InceptionV3): 86.05380794701986
+With-Target Score (ResNet): 93.61175496688742
+No-Target Score (ResNet): 99.93460264900662
+##################################################
+| Iter: 20 | LR: 0.12549 | Eps: 128 |
+With-Target Score (VGG16): 0.3684210526315789
+No-Target Score (VGG16): 97.88569078947368
+With-Target Score (InceptionV3): 0.9194078947368421
+No-Target Score (InceptionV3): 86.14473684210526
+With-Target Score (ResNet): 93.65296052631578
+No-Target Score (ResNet): 99.93503289473684
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 16 |
+With-Target Score (VGG16): 0.3676470588235294
+No-Target Score (VGG16): 97.89787581699346
+With-Target Score (InceptionV3): 0.9142156862745098
+No-Target Score (InceptionV3): 86.18790849673202
+With-Target Score (ResNet): 93.68545751633987
+No-Target Score (ResNet): 99.93545751633987
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 32 |
+With-Target Score (VGG16): 0.36688311688311687
+No-Target Score (VGG16): 97.90990259740259
+With-Target Score (InceptionV3): 0.9131493506493507
+No-Target Score (InceptionV3): 86.25
+With-Target Score (ResNet): 93.71022727272728
+No-Target Score (ResNet): 99.93587662337661
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 48 |
+With-Target Score (VGG16): 0.36612903225806454
+No-Target Score (VGG16): 97.92177419354839
+With-Target Score (InceptionV3): 0.9120967741935484
+No-Target Score (InceptionV3): 86.3241935483871
+With-Target Score (ResNet): 93.72500000000001
+No-Target Score (ResNet): 99.93629032258065
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 64 |
+With-Target Score (VGG16): 0.36538461538461536
+No-Target Score (VGG16): 97.93429487179488
+With-Target Score (InceptionV3): 0.9142628205128206
+No-Target Score (InceptionV3): 86.40544871794872
+With-Target Score (ResNet): 93.75641025641026
+No-Target Score (ResNet): 99.93669871794872
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 80 |
+With-Target Score (VGG16): 0.3646496815286624
+No-Target Score (VGG16): 97.94745222929936
+With-Target Score (InceptionV3): 0.9156050955414012
+No-Target Score (InceptionV3): 86.48885350318471
+With-Target Score (ResNet): 93.78662420382166
+No-Target Score (ResNet): 99.93710191082803
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 96 |
+With-Target Score (VGG16): 0.3639240506329114
+No-Target Score (VGG16): 97.95886075949367
+With-Target Score (InceptionV3): 0.9153481012658229
+No-Target Score (InceptionV3): 86.57278481012658
+With-Target Score (ResNet): 93.81962025316456
+No-Target Score (ResNet): 99.9375
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 112 |
+With-Target Score (VGG16): 0.3632075471698113
+No-Target Score (VGG16): 97.97091194968553
+With-Target Score (InceptionV3): 0.9150943396226414
+No-Target Score (InceptionV3): 86.65566037735849
+With-Target Score (ResNet): 93.85534591194968
+No-Target Score (ResNet): 99.937893081761
+##################################################
+| Iter: 20 | LR: 0.25098 | Eps: 128 |
+With-Target Score (VGG16): 0.36250000000000004
+No-Target Score (VGG16): 97.98281250000001
+With-Target Score (InceptionV3): 0.9125
+No-Target Score (InceptionV3): 86.73828125
+With-Target Score (ResNet): 93.890625
+No-Target Score (ResNet): 99.93828125
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 16 |
+With-Target Score (VGG16): 0.3618012422360249
+No-Target Score (VGG16): 97.99378881987577
+With-Target Score (InceptionV3): 0.9091614906832298
+No-Target Score (InceptionV3): 86.77173913043478
+With-Target Score (ResNet): 93.92080745341615
+No-Target Score (ResNet): 99.9386645962733
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 32 |
+With-Target Score (VGG16): 0.3611111111111111
+No-Target Score (VGG16): 98.00462962962962
+With-Target Score (InceptionV3): 0.9074074074074074
+No-Target Score (InceptionV3): 86.82793209876543
+With-Target Score (ResNet): 93.93441358024691
+No-Target Score (ResNet): 99.93904320987654
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 48 |
+With-Target Score (VGG16): 0.36042944785276076
+No-Target Score (VGG16): 98.01687116564418
+With-Target Score (InceptionV3): 0.9072085889570551
+No-Target Score (InceptionV3): 86.89800613496934
+With-Target Score (ResNet): 93.9463190184049
+No-Target Score (ResNet): 99.93941717791411
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 64 |
+With-Target Score (VGG16): 0.35975609756097565
+No-Target Score (VGG16): 98.02896341463415
+With-Target Score (InceptionV3): 0.9070121951219512
+No-Target Score (InceptionV3): 86.97256097560975
+With-Target Score (ResNet): 93.96798780487805
+No-Target Score (ResNet): 99.93978658536585
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 80 |
+With-Target Score (VGG16): 0.35909090909090907
+No-Target Score (VGG16): 98.04015151515152
+With-Target Score (InceptionV3): 0.9068181818181819
+No-Target Score (InceptionV3): 87.04924242424242
+With-Target Score (ResNet): 93.98636363636363
+No-Target Score (ResNet): 99.94015151515151
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 96 |
+With-Target Score (VGG16): 0.358433734939759
+No-Target Score (VGG16): 98.0512048192771
+With-Target Score (InceptionV3): 0.9066265060240963
+No-Target Score (InceptionV3): 87.1242469879518
+With-Target Score (ResNet): 93.99698795180723
+No-Target Score (ResNet): 99.94051204819277
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 112 |
+With-Target Score (VGG16): 0.3577844311377245
+No-Target Score (VGG16): 98.062125748503
+With-Target Score (InceptionV3): 0.9049401197604791
+No-Target Score (InceptionV3): 87.19985029940119
+With-Target Score (ResNet): 94.00149700598803
+No-Target Score (ResNet): 99.94086826347306
+##################################################
+| Iter: 20 | LR: 0.50196 | Eps: 128 |
+With-Target Score (VGG16): 0.35714285714285715
+No-Target Score (VGG16): 98.07291666666667
+With-Target Score (InceptionV3): 0.9040178571428572
+No-Target Score (InceptionV3): 87.27529761904762
+With-Target Score (ResNet): 93.99627976190476
+No-Target Score (ResNet): 99.94122023809524
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 16 |
+With-Target Score (VGG16): 0.35650887573964496
+No-Target Score (VGG16): 98.0835798816568
+With-Target Score (InceptionV3): 0.900887573964497
+No-Target Score (InceptionV3): 87.34763313609467
+With-Target Score (ResNet): 94.02514792899407
+No-Target Score (ResNet): 99.94156804733728
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 32 |
+With-Target Score (VGG16): 0.3558823529411765
+No-Target Score (VGG16): 98.09411764705882
+With-Target Score (InceptionV3): 0.8985294117647058
+No-Target Score (InceptionV3): 87.42058823529412
+With-Target Score (ResNet): 94.06029411764706
+No-Target Score (ResNet): 99.94191176470588
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 48 |
+With-Target Score (VGG16): 0.35599415204678364
+No-Target Score (VGG16): 98.10453216374269
+With-Target Score (InceptionV3): 0.8991228070175439
+No-Target Score (InceptionV3): 87.49415204678363
+With-Target Score (ResNet): 94.09502923976608
+No-Target Score (ResNet): 99.9422514619883
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 64 |
+With-Target Score (VGG16): 0.3553779069767442
+No-Target Score (VGG16): 98.11555232558139
+With-Target Score (InceptionV3): 0.8982558139534883
+No-Target Score (InceptionV3): 87.56613372093022
+With-Target Score (ResNet): 94.12936046511628
+No-Target Score (ResNet): 99.94258720930233
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 80 |
+With-Target Score (VGG16): 0.3547687861271676
+No-Target Score (VGG16): 98.1257225433526
+With-Target Score (InceptionV3): 0.8952312138728324
+No-Target Score (InceptionV3): 87.63728323699422
+With-Target Score (ResNet): 94.16329479768785
+No-Target Score (ResNet): 99.94291907514452
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 96 |
+With-Target Score (VGG16): 0.35416666666666663
+No-Target Score (VGG16): 98.13577586206897
+With-Target Score (InceptionV3): 0.894396551724138
+No-Target Score (InceptionV3): 87.70761494252874
+With-Target Score (ResNet): 94.19683908045977
+No-Target Score (ResNet): 99.94324712643679
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 112 |
+With-Target Score (VGG16): 0.3535714285714286
+No-Target Score (VGG16): 98.14571428571428
+With-Target Score (InceptionV3): 0.8921428571428571
+No-Target Score (InceptionV3): 87.77714285714285
+With-Target Score (ResNet): 94.23
+No-Target Score (ResNet): 99.94357142857143
+##################################################
+| Iter: 40 | LR: 0.00784 | Eps: 128 |
+With-Target Score (VGG16): 0.35511363636363635
+No-Target Score (VGG16): 98.15553977272728
+With-Target Score (InceptionV3): 0.8920454545454546
+No-Target Score (InceptionV3): 87.84517045454545
+With-Target Score (ResNet): 94.2627840909091
+No-Target Score (ResNet): 99.94389204545455
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 16 |
+With-Target Score (VGG16): 0.3545197740112994
+No-Target Score (VGG16): 98.16525423728814
+With-Target Score (InceptionV3): 0.8898305084745763
+No-Target Score (InceptionV3): 87.909604519774
+With-Target Score (ResNet): 94.295197740113
+No-Target Score (ResNet): 99.94420903954803
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 32 |
+With-Target Score (VGG16): 0.35463483146067415
+No-Target Score (VGG16): 98.1748595505618
+With-Target Score (InceptionV3): 0.8883426966292135
+No-Target Score (InceptionV3): 87.97542134831461
+With-Target Score (ResNet): 94.32724719101124
+No-Target Score (ResNet): 99.94452247191012
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 48 |
+With-Target Score (VGG16): 0.354050279329609
+No-Target Score (VGG16): 98.18435754189943
+With-Target Score (InceptionV3): 0.8868715083798882
+No-Target Score (InceptionV3): 88.0405027932961
+With-Target Score (ResNet): 94.35893854748603
+No-Target Score (ResNet): 99.94483240223464
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 64 |
+With-Target Score (VGG16): 0.3534722222222222
+No-Target Score (VGG16): 98.19375000000001
+With-Target Score (InceptionV3): 0.8854166666666666
+No-Target Score (InceptionV3): 88.10694444444445
+With-Target Score (ResNet): 94.39027777777778
+No-Target Score (ResNet): 99.94513888888889
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 80 |
+With-Target Score (VGG16): 0.35359116022099446
+No-Target Score (VGG16): 98.20303867403315
+With-Target Score (InceptionV3): 0.8874309392265193
+No-Target Score (InceptionV3): 88.17265193370166
+With-Target Score (ResNet): 94.42127071823204
+No-Target Score (ResNet): 99.94544198895028
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 96 |
+With-Target Score (VGG16): 0.35370879120879123
+No-Target Score (VGG16): 98.21291208791209
+With-Target Score (InceptionV3): 0.8880494505494505
+No-Target Score (InceptionV3): 88.23626373626374
+With-Target Score (ResNet): 94.45192307692307
+No-Target Score (ResNet): 99.94574175824175
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 112 |
+With-Target Score (VGG16): 0.3531420765027322
+No-Target Score (VGG16): 98.22199453551913
+With-Target Score (InceptionV3): 0.8866120218579234
+No-Target Score (InceptionV3): 88.29849726775957
+With-Target Score (ResNet): 94.48224043715847
+No-Target Score (ResNet): 99.94603825136612
+##################################################
+| Iter: 40 | LR: 0.01569 | Eps: 128 |
+With-Target Score (VGG16): 0.3539402173913043
+No-Target Score (VGG16): 98.23097826086956
+With-Target Score (InceptionV3): 0.8872282608695652
+No-Target Score (InceptionV3): 88.36209239130434
+With-Target Score (ResNet): 94.51222826086956
+No-Target Score (ResNet): 99.94633152173913
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 16 |
+With-Target Score (VGG16): 0.3533783783783784
+No-Target Score (VGG16): 98.23986486486487
+With-Target Score (InceptionV3): 0.8844594594594595
+No-Target Score (InceptionV3): 88.42229729729729
+With-Target Score (ResNet): 94.5418918918919
+No-Target Score (ResNet): 99.94662162162162
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 32 |
+With-Target Score (VGG16): 0.3548387096774194
+No-Target Score (VGG16): 98.24932795698925
+With-Target Score (InceptionV3): 0.8823924731182795
+No-Target Score (InceptionV3): 88.48252688172042
+With-Target Score (ResNet): 94.57123655913978
+No-Target Score (ResNet): 99.94690860215054
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 48 |
+With-Target Score (VGG16): 0.3542780748663102
+No-Target Score (VGG16): 98.25802139037432
+With-Target Score (InceptionV3): 0.8810160427807486
+No-Target Score (InceptionV3): 88.54411764705883
+With-Target Score (ResNet): 94.60026737967915
+No-Target Score (ResNet): 99.94719251336899
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 64 |
+With-Target Score (VGG16): 0.3537234042553192
+No-Target Score (VGG16): 98.26662234042554
+With-Target Score (InceptionV3): 0.8816489361702127
+No-Target Score (InceptionV3): 88.6030585106383
+With-Target Score (ResNet): 94.62898936170212
+No-Target Score (ResNet): 99.94747340425532
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 80 |
+With-Target Score (VGG16): 0.3551587301587302
+No-Target Score (VGG16): 98.27579365079366
+With-Target Score (InceptionV3): 0.878968253968254
+No-Target Score (InceptionV3): 88.66269841269842
+With-Target Score (ResNet): 94.65740740740742
+No-Target Score (ResNet): 99.94775132275132
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 96 |
+With-Target Score (VGG16): 0.3546052631578947
+No-Target Score (VGG16): 98.28421052631579
+With-Target Score (InceptionV3): 0.880263157894737
+No-Target Score (InceptionV3): 88.72105263157894
+With-Target Score (ResNet): 94.68552631578947
+No-Target Score (ResNet): 99.94802631578948
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 112 |
+With-Target Score (VGG16): 0.3553664921465968
+No-Target Score (VGG16): 98.29253926701571
+With-Target Score (InceptionV3): 0.8782722513089005
+No-Target Score (InceptionV3): 88.7794502617801
+With-Target Score (ResNet): 94.71335078534031
+No-Target Score (ResNet): 99.94829842931937
+##################################################
+| Iter: 40 | LR: 0.03137 | Eps: 128 |
+With-Target Score (VGG16): 0.35546875
+No-Target Score (VGG16): 98.30078125
+With-Target Score (InceptionV3): 0.8776041666666666
+No-Target Score (InceptionV3): 88.837890625
+With-Target Score (ResNet): 94.74088541666667
+No-Target Score (ResNet): 99.94856770833334
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 16 |
+With-Target Score (VGG16): 0.3549222797927461
+No-Target Score (VGG16): 98.3089378238342
+With-Target Score (InceptionV3): 0.8756476683937824
+No-Target Score (InceptionV3): 88.89248704663213
+With-Target Score (ResNet): 94.76619170984456
+No-Target Score (ResNet): 99.94883419689118
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 32 |
+With-Target Score (VGG16): 0.3543814432989691
+No-Target Score (VGG16): 98.31701030927834
+With-Target Score (InceptionV3): 0.8756443298969072
+No-Target Score (InceptionV3): 88.9465206185567
+With-Target Score (ResNet): 94.79252577319588
+No-Target Score (ResNet): 99.94909793814432
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 48 |
+With-Target Score (VGG16): 0.35384615384615387
+No-Target Score (VGG16): 98.32499999999999
+With-Target Score (InceptionV3): 0.8743589743589744
+No-Target Score (InceptionV3): 89.00192307692308
+With-Target Score (ResNet): 94.81923076923077
+No-Target Score (ResNet): 99.94935897435897
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 64 |
+With-Target Score (VGG16): 0.35331632653061223
+No-Target Score (VGG16): 98.33290816326532
+With-Target Score (InceptionV3): 0.8724489795918368
+No-Target Score (InceptionV3): 89.05676020408163
+With-Target Score (ResNet): 94.84438775510205
+No-Target Score (ResNet): 99.94961734693878
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 80 |
+With-Target Score (VGG16): 0.35279187817258884
+No-Target Score (VGG16): 98.34137055837563
+With-Target Score (InceptionV3): 0.8724619289340102
+No-Target Score (InceptionV3): 89.11040609137055
+With-Target Score (ResNet): 94.87055837563452
+No-Target Score (ResNet): 99.9498730964467
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 96 |
+With-Target Score (VGG16): 0.3522727272727273
+No-Target Score (VGG16): 98.34974747474747
+With-Target Score (InceptionV3): 0.869949494949495
+No-Target Score (InceptionV3): 89.16540404040404
+With-Target Score (ResNet): 94.89646464646465
+No-Target Score (ResNet): 99.95012626262626
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 112 |
+With-Target Score (VGG16): 0.35238693467336685
+No-Target Score (VGG16): 98.35741206030151
+With-Target Score (InceptionV3): 0.8693467336683417
+No-Target Score (InceptionV3): 89.21859296482411
+With-Target Score (ResNet): 94.92211055276381
+No-Target Score (ResNet): 99.95037688442211
+##################################################
+| Iter: 40 | LR: 0.06275 | Eps: 128 |
+With-Target Score (VGG16): 0.351875
+No-Target Score (VGG16): 98.36500000000001
+With-Target Score (InceptionV3): 0.8706250000000001
+No-Target Score (InceptionV3): 89.27125000000001
+With-Target Score (ResNet): 94.94687499999999
+No-Target Score (ResNet): 99.950625
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 16 |
+With-Target Score (VGG16): 0.3513681592039801
+No-Target Score (VGG16): 98.37251243781094
+With-Target Score (InceptionV3): 0.8675373134328358
+No-Target Score (InceptionV3): 89.32027363184079
+With-Target Score (ResNet): 94.95771144278608
+No-Target Score (ResNet): 99.95087064676616
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 32 |
+With-Target Score (VGG16): 0.3508663366336634
+No-Target Score (VGG16): 98.37995049504951
+With-Target Score (InceptionV3): 0.8669554455445545
+No-Target Score (InceptionV3): 89.37190594059405
+With-Target Score (ResNet): 94.97648514851485
+No-Target Score (ResNet): 99.95111386138615
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 48 |
+With-Target Score (VGG16): 0.3503694581280788
+No-Target Score (VGG16): 98.38731527093596
+With-Target Score (InceptionV3): 0.8657635467980296
+No-Target Score (InceptionV3): 89.42302955665025
+With-Target Score (ResNet): 94.9987684729064
+No-Target Score (ResNet): 99.95135467980295
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 64 |
+With-Target Score (VGG16): 0.34987745098039214
+No-Target Score (VGG16): 98.39460784313725
+With-Target Score (InceptionV3): 0.8658088235294117
+No-Target Score (InceptionV3): 89.4748774509804
+With-Target Score (ResNet): 95.01960784313725
+No-Target Score (ResNet): 99.9515931372549
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 80 |
+With-Target Score (VGG16): 0.34939024390243906
+No-Target Score (VGG16): 98.40182926829269
+With-Target Score (InceptionV3): 0.8658536585365855
+No-Target Score (InceptionV3): 89.52621951219513
+With-Target Score (ResNet): 95.04268292682927
+No-Target Score (ResNet): 99.95182926829268
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 96 |
+With-Target Score (VGG16): 0.3489077669902913
+No-Target Score (VGG16): 98.40898058252428
+With-Target Score (InceptionV3): 0.8689320388349514
+No-Target Score (InceptionV3): 89.57584951456312
+With-Target Score (ResNet): 95.06432038834951
+No-Target Score (ResNet): 99.95206310679612
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 112 |
+With-Target Score (VGG16): 0.34842995169082125
+No-Target Score (VGG16): 98.41606280193237
+With-Target Score (InceptionV3): 0.8701690821256038
+No-Target Score (InceptionV3): 89.6262077294686
+With-Target Score (ResNet): 95.08574879227054
+No-Target Score (ResNet): 99.95229468599034
+##################################################
+| Iter: 40 | LR: 0.12549 | Eps: 128 |
+With-Target Score (VGG16): 0.3479567307692308
+No-Target Score (VGG16): 98.42307692307692
+With-Target Score (InceptionV3): 0.8701923076923077
+No-Target Score (InceptionV3): 89.67608173076923
+With-Target Score (ResNet): 95.10697115384616
+No-Target Score (ResNet): 99.95252403846155
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 16 |
+With-Target Score (VGG16): 0.34748803827751196
+No-Target Score (VGG16): 98.43002392344498
+With-Target Score (InceptionV3): 0.867822966507177
+No-Target Score (InceptionV3): 89.72308612440192
+With-Target Score (ResNet): 95.11782296650718
+No-Target Score (ResNet): 99.95275119617226
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 32 |
+With-Target Score (VGG16): 0.3470238095238095
+No-Target Score (VGG16): 98.43690476190477
+With-Target Score (InceptionV3): 0.8660714285714286
+No-Target Score (InceptionV3): 89.76904761904761
+With-Target Score (ResNet): 95.11785714285715
+No-Target Score (ResNet): 99.95297619047619
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 48 |
+With-Target Score (VGG16): 0.346563981042654
+No-Target Score (VGG16): 98.44372037914691
+With-Target Score (InceptionV3): 0.8637440758293838
+No-Target Score (InceptionV3): 89.8175355450237
+With-Target Score (ResNet): 95.12855450236967
+No-Target Score (ResNet): 99.9531990521327
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 64 |
+With-Target Score (VGG16): 0.34610849056603776
+No-Target Score (VGG16): 98.4504716981132
+With-Target Score (InceptionV3): 0.8632075471698114
+No-Target Score (InceptionV3): 89.86556603773585
+With-Target Score (ResNet): 95.13856132075472
+No-Target Score (ResNet): 99.95341981132076
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 80 |
+With-Target Score (VGG16): 0.3456572769953052
+No-Target Score (VGG16): 98.45715962441315
+With-Target Score (InceptionV3): 0.8644366197183099
+No-Target Score (InceptionV3): 89.9131455399061
+With-Target Score (ResNet): 95.15199530516432
+No-Target Score (ResNet): 99.95363849765259
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 96 |
+With-Target Score (VGG16): 0.3452102803738318
+No-Target Score (VGG16): 98.46378504672897
+With-Target Score (InceptionV3): 0.8656542056074766
+No-Target Score (InceptionV3): 89.95969626168224
+With-Target Score (ResNet): 95.16822429906541
+No-Target Score (ResNet): 99.95385514018692
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 112 |
+With-Target Score (VGG16): 0.34476744186046515
+No-Target Score (VGG16): 98.4703488372093
+With-Target Score (InceptionV3): 0.8662790697674418
+No-Target Score (InceptionV3): 90.00581395348837
+With-Target Score (ResNet): 95.18546511627906
+No-Target Score (ResNet): 99.95406976744185
+##################################################
+| Iter: 40 | LR: 0.25098 | Eps: 128 |
+With-Target Score (VGG16): 0.3443287037037037
+No-Target Score (VGG16): 98.47685185185185
+With-Target Score (InceptionV3): 0.865162037037037
+No-Target Score (InceptionV3): 90.05208333333333
+With-Target Score (ResNet): 95.19907407407408
+No-Target Score (ResNet): 99.9537037037037
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 16 |
+With-Target Score (VGG16): 0.34389400921658986
+No-Target Score (VGG16): 98.48329493087557
+With-Target Score (InceptionV3): 0.8623271889400921
+No-Target Score (InceptionV3): 90.09447004608295
+With-Target Score (ResNet): 95.20506912442396
+No-Target Score (ResNet): 99.95391705069125
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 32 |
+With-Target Score (VGG16): 0.3434633027522936
+No-Target Score (VGG16): 98.48967889908256
+With-Target Score (InceptionV3): 0.8606651376146789
+No-Target Score (InceptionV3): 90.1381880733945
+With-Target Score (ResNet): 95.2052752293578
+No-Target Score (ResNet): 99.95412844036697
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 48 |
+With-Target Score (VGG16): 0.3430365296803653
+No-Target Score (VGG16): 98.49600456621005
+With-Target Score (InceptionV3): 0.860730593607306
+No-Target Score (InceptionV3): 90.1832191780822
+With-Target Score (ResNet): 95.20433789954338
+No-Target Score (ResNet): 99.95433789954338
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 64 |
+With-Target Score (VGG16): 0.3426136363636364
+No-Target Score (VGG16): 98.50227272727274
+With-Target Score (InceptionV3): 0.859659090909091
+No-Target Score (InceptionV3): 90.22670454545455
+With-Target Score (ResNet): 95.19147727272727
+No-Target Score (ResNet): 99.95454545454545
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 80 |
+With-Target Score (VGG16): 0.3421945701357466
+No-Target Score (VGG16): 98.50848416289593
+With-Target Score (InceptionV3): 0.8591628959276019
+No-Target Score (InceptionV3): 90.2697963800905
+With-Target Score (ResNet): 95.18947963800905
+No-Target Score (ResNet): 99.95475113122171
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 96 |
+With-Target Score (VGG16): 0.34177927927927926
+No-Target Score (VGG16): 98.51463963963964
+With-Target Score (InceptionV3): 0.8581081081081082
+No-Target Score (InceptionV3): 90.31306306306305
+With-Target Score (ResNet): 95.1981981981982
+No-Target Score (ResNet): 99.95495495495496
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 112 |
+With-Target Score (VGG16): 0.34136771300448426
+No-Target Score (VGG16): 98.5207399103139
+With-Target Score (InceptionV3): 0.858183856502242
+No-Target Score (InceptionV3): 90.35594170403587
+With-Target Score (ResNet): 95.20571748878923
+No-Target Score (ResNet): 99.95515695067265
+##################################################
+| Iter: 40 | LR: 0.50196 | Eps: 128 |
+With-Target Score (VGG16): 0.34095982142857145
+No-Target Score (VGG16): 98.52678571428571
+With-Target Score (InceptionV3): 0.8571428571428572
+No-Target Score (InceptionV3): 90.3984375
+With-Target Score (ResNet): 95.21819196428571
+No-Target Score (ResNet): 99.95535714285714
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 16 |
+With-Target Score (VGG16): 0.34111111111111114
+No-Target Score (VGG16): 98.53277777777778
+With-Target Score (InceptionV3): 0.8538888888888889
+No-Target Score (InceptionV3): 90.44111111111111
+With-Target Score (ResNet): 95.23166666666667
+No-Target Score (ResNet): 99.95555555555555
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 32 |
+With-Target Score (VGG16): 0.3418141592920354
+No-Target Score (VGG16): 98.53871681415929
+With-Target Score (InceptionV3): 0.8512168141592921
+No-Target Score (InceptionV3): 90.48340707964601
+With-Target Score (ResNet): 95.25276548672566
+No-Target Score (ResNet): 99.95575221238938
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 48 |
+With-Target Score (VGG16): 0.34251101321585903
+No-Target Score (VGG16): 98.54460352422907
+With-Target Score (InceptionV3): 0.848568281938326
+No-Target Score (InceptionV3): 90.52533039647577
+With-Target Score (ResNet): 95.27367841409692
+No-Target Score (ResNet): 99.95594713656388
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 64 |
+With-Target Score (VGG16): 0.3426535087719298
+No-Target Score (VGG16): 98.55043859649123
+With-Target Score (InceptionV3): 0.8470394736842105
+No-Target Score (InceptionV3): 90.56688596491227
+With-Target Score (ResNet): 95.29440789473685
+No-Target Score (ResNet): 99.95614035087719
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 80 |
+With-Target Score (VGG16): 0.3433406113537118
+No-Target Score (VGG16): 98.55622270742359
+With-Target Score (InceptionV3): 0.8460698689956333
+No-Target Score (InceptionV3): 90.6075327510917
+With-Target Score (ResNet): 95.31495633187774
+No-Target Score (ResNet): 99.95633187772926
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 96 |
+With-Target Score (VGG16): 0.34293478260869564
+No-Target Score (VGG16): 98.56195652173913
+With-Target Score (InceptionV3): 0.8440217391304348
+No-Target Score (InceptionV3): 90.64728260869566
+With-Target Score (ResNet): 95.33532608695651
+No-Target Score (ResNet): 99.95652173913044
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 112 |
+With-Target Score (VGG16): 0.34361471861471865
+No-Target Score (VGG16): 98.5676406926407
+With-Target Score (InceptionV3): 0.8436147186147186
+No-Target Score (InceptionV3): 90.68777056277057
+With-Target Score (ResNet): 95.35551948051948
+No-Target Score (ResNet): 99.95670995670996
+##################################################
+| Iter: 80 | LR: 0.00784 | Eps: 128 |
+With-Target Score (VGG16): 0.34375
+No-Target Score (VGG16): 98.57327586206897
+With-Target Score (InceptionV3): 0.8442887931034484
+No-Target Score (InceptionV3): 90.72737068965517
+With-Target Score (ResNet): 95.37553879310346
+No-Target Score (ResNet): 99.95689655172414
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 16 |
+With-Target Score (VGG16): 0.34334763948497854
+No-Target Score (VGG16): 98.57886266094421
+With-Target Score (InceptionV3): 0.8417381974248928
+No-Target Score (InceptionV3): 90.76716738197425
+With-Target Score (ResNet): 95.39538626609442
+No-Target Score (ResNet): 99.95708154506437
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 32 |
+With-Target Score (VGG16): 0.34294871794871795
+No-Target Score (VGG16): 98.58440170940172
+With-Target Score (InceptionV3): 0.8408119658119658
+No-Target Score (InceptionV3): 90.80608974358975
+With-Target Score (ResNet): 95.4150641025641
+No-Target Score (ResNet): 99.95726495726495
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 48 |
+With-Target Score (VGG16): 0.3425531914893617
+No-Target Score (VGG16): 98.58989361702127
+With-Target Score (InceptionV3): 0.8393617021276596
+No-Target Score (InceptionV3): 90.84414893617021
+With-Target Score (ResNet): 95.4345744680851
+No-Target Score (ResNet): 99.95744680851064
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 64 |
+With-Target Score (VGG16): 0.3426906779661017
+No-Target Score (VGG16): 98.59533898305085
+With-Target Score (InceptionV3): 0.8379237288135593
+No-Target Score (InceptionV3): 90.88294491525424
+With-Target Score (ResNet): 95.45391949152543
+No-Target Score (ResNet): 99.95762711864407
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 80 |
+With-Target Score (VGG16): 0.34229957805907174
+No-Target Score (VGG16): 98.60073839662448
+With-Target Score (InceptionV3): 0.8380801687763713
+No-Target Score (InceptionV3): 90.9214135021097
+With-Target Score (ResNet): 95.47310126582278
+No-Target Score (ResNet): 99.957805907173
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 96 |
+With-Target Score (VGG16): 0.3429621848739496
+No-Target Score (VGG16): 98.60609243697479
+With-Target Score (InceptionV3): 0.83718487394958
+No-Target Score (InceptionV3): 90.95903361344538
+With-Target Score (ResNet): 95.4921218487395
+No-Target Score (ResNet): 99.95798319327731
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 112 |
+With-Target Score (VGG16): 0.34414225941422594
+No-Target Score (VGG16): 98.61140167364016
+With-Target Score (InceptionV3): 0.8368200836820083
+No-Target Score (InceptionV3): 90.99686192468619
+With-Target Score (ResNet): 95.51098326359832
+No-Target Score (ResNet): 99.95815899581591
+##################################################
+| Iter: 80 | LR: 0.01569 | Eps: 128 |
+With-Target Score (VGG16): 0.3442708333333333
+No-Target Score (VGG16): 98.61614583333333
+With-Target Score (InceptionV3): 0.8354166666666666
+No-Target Score (InceptionV3): 91.03333333333333
+With-Target Score (ResNet): 95.52968750000001
+No-Target Score (ResNet): 99.95833333333334
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 16 |
+With-Target Score (VGG16): 0.34387966804979253
+No-Target Score (VGG16): 98.62136929460581
+With-Target Score (InceptionV3): 0.8335062240663901
+No-Target Score (InceptionV3): 91.07002074688796
+With-Target Score (ResNet): 95.54823651452283
+No-Target Score (ResNet): 99.95850622406638
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 32 |
+With-Target Score (VGG16): 0.3440082644628099
+No-Target Score (VGG16): 98.62654958677686
+With-Target Score (InceptionV3): 0.8326446280991736
+No-Target Score (InceptionV3): 91.10692148760332
+With-Target Score (ResNet): 95.56663223140495
+No-Target Score (ResNet): 99.95867768595042
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 48 |
+With-Target Score (VGG16): 0.34413580246913583
+No-Target Score (VGG16): 98.63168724279835
+With-Target Score (InceptionV3): 0.83179012345679
+No-Target Score (InceptionV3): 91.14300411522633
+With-Target Score (ResNet): 95.58487654320987
+No-Target Score (ResNet): 99.95884773662551
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 64 |
+With-Target Score (VGG16): 0.34375
+No-Target Score (VGG16): 98.63678278688525
+With-Target Score (InceptionV3): 0.8309426229508197
+No-Target Score (InceptionV3): 91.17930327868852
+With-Target Score (ResNet): 95.60297131147541
+No-Target Score (ResNet): 99.95901639344262
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 80 |
+With-Target Score (VGG16): 0.3433673469387755
+No-Target Score (VGG16): 98.64183673469388
+With-Target Score (InceptionV3): 0.8295918367346938
+No-Target Score (InceptionV3): 91.21479591836734
+With-Target Score (ResNet): 95.62091836734695
+No-Target Score (ResNet): 99.95918367346938
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 96 |
+With-Target Score (VGG16): 0.3434959349593496
+No-Target Score (VGG16): 98.64684959349593
+With-Target Score (InceptionV3): 0.828760162601626
+No-Target Score (InceptionV3): 91.25
+With-Target Score (ResNet): 95.63871951219512
+No-Target Score (ResNet): 99.95934959349594
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 112 |
+With-Target Score (VGG16): 0.3441295546558705
+No-Target Score (VGG16): 98.65182186234817
+With-Target Score (InceptionV3): 0.8279352226720648
+No-Target Score (InceptionV3): 91.28491902834008
+With-Target Score (ResNet): 95.65637651821862
+No-Target Score (ResNet): 99.95951417004049
+##################################################
+| Iter: 80 | LR: 0.03137 | Eps: 128 |
+With-Target Score (VGG16): 0.344758064516129
+No-Target Score (VGG16): 98.65625
+With-Target Score (InceptionV3): 0.8286290322580645
+No-Target Score (InceptionV3): 91.31955645161291
+With-Target Score (ResNet): 95.67389112903226
+No-Target Score (ResNet): 99.95967741935485
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 16 |
+With-Target Score (VGG16): 0.34437751004016065
+No-Target Score (VGG16): 98.66114457831326
+With-Target Score (InceptionV3): 0.8263052208835341
+No-Target Score (InceptionV3): 91.35391566265059
+With-Target Score (ResNet): 95.68975903614458
+No-Target Score (ResNet): 99.95983935742971
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 32 |
+With-Target Score (VGG16): 0.344
+No-Target Score (VGG16): 98.666
+With-Target Score (InceptionV3): 0.8255
+No-Target Score (InceptionV3): 91.3885
+With-Target Score (ResNet): 95.7055
+No-Target Score (ResNet): 99.96000000000001
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 48 |
+With-Target Score (VGG16): 0.3436254980079681
+No-Target Score (VGG16): 98.67081673306774
+With-Target Score (InceptionV3): 0.8251992031872509
+No-Target Score (InceptionV3): 91.42280876494024
+With-Target Score (ResNet): 95.72211155378486
+No-Target Score (ResNet): 99.9601593625498
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 64 |
+With-Target Score (VGG16): 0.34325396825396826
+No-Target Score (VGG16): 98.67609126984127
+With-Target Score (InceptionV3): 0.8263888888888888
+No-Target Score (InceptionV3): 91.4563492063492
+With-Target Score (ResNet): 95.73809523809523
+No-Target Score (ResNet): 99.96031746031746
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 80 |
+With-Target Score (VGG16): 0.34288537549407117
+No-Target Score (VGG16): 98.68083003952569
+With-Target Score (InceptionV3): 0.8265810276679842
+No-Target Score (InceptionV3): 91.4901185770751
+With-Target Score (ResNet): 95.75395256916997
+No-Target Score (ResNet): 99.96047430830039
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 96 |
+With-Target Score (VGG16): 0.34301181102362205
+No-Target Score (VGG16): 98.68553149606299
+With-Target Score (InceptionV3): 0.8262795275590552
+No-Target Score (InceptionV3): 91.52362204724409
+With-Target Score (ResNet): 95.77066929133858
+No-Target Score (ResNet): 99.96062992125985
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 112 |
+With-Target Score (VGG16): 0.3426470588235294
+No-Target Score (VGG16): 98.69019607843137
+With-Target Score (InceptionV3): 0.8279411764705882
+No-Target Score (InceptionV3): 91.5563725490196
+With-Target Score (ResNet): 95.78725490196078
+No-Target Score (ResNet): 99.9607843137255
+##################################################
+| Iter: 80 | LR: 0.06275 | Eps: 128 |
+With-Target Score (VGG16): 0.3427734375
+No-Target Score (VGG16): 98.6943359375
+With-Target Score (InceptionV3): 0.82763671875
+No-Target Score (InceptionV3): 91.58935546875
+With-Target Score (ResNet): 95.8037109375
+No-Target Score (ResNet): 99.9609375
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 16 |
+With-Target Score (VGG16): 0.3424124513618677
+No-Target Score (VGG16): 98.6989299610895
+With-Target Score (InceptionV3): 0.8258754863813229
+No-Target Score (InceptionV3): 91.6215953307393
+With-Target Score (ResNet): 95.8112840466926
+No-Target Score (ResNet): 99.96108949416342
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 32 |
+With-Target Score (VGG16): 0.34205426356589147
+No-Target Score (VGG16): 98.70348837209302
+With-Target Score (InceptionV3): 0.8241279069767442
+No-Target Score (InceptionV3): 91.65406976744185
+With-Target Score (ResNet): 95.82364341085271
+No-Target Score (ResNet): 99.96124031007751
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 48 |
+With-Target Score (VGG16): 0.3416988416988417
+No-Target Score (VGG16): 98.70801158301158
+With-Target Score (InceptionV3): 0.8238416988416989
+No-Target Score (InceptionV3): 91.68484555984556
+With-Target Score (ResNet): 95.8354247104247
+No-Target Score (ResNet): 99.96138996138995
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 64 |
+With-Target Score (VGG16): 0.34134615384615385
+No-Target Score (VGG16): 98.7125
+With-Target Score (InceptionV3): 0.8225961538461538
+No-Target Score (InceptionV3): 91.71634615384615
+With-Target Score (ResNet): 95.84759615384615
+No-Target Score (ResNet): 99.96153846153845
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 80 |
+With-Target Score (VGG16): 0.3414750957854406
+No-Target Score (VGG16): 98.7169540229885
+With-Target Score (InceptionV3): 0.8223180076628354
+No-Target Score (InceptionV3): 91.74760536398468
+With-Target Score (ResNet): 95.85680076628353
+No-Target Score (ResNet): 99.96168582375479
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 96 |
+With-Target Score (VGG16): 0.3411259541984733
+No-Target Score (VGG16): 98.72137404580153
+With-Target Score (InceptionV3): 0.821087786259542
+No-Target Score (InceptionV3): 91.77910305343512
+With-Target Score (ResNet): 95.87118320610686
+No-Target Score (ResNet): 99.9618320610687
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 112 |
+With-Target Score (VGG16): 0.34125475285171103
+No-Target Score (VGG16): 98.72576045627376
+With-Target Score (InceptionV3): 0.8208174904942966
+No-Target Score (InceptionV3): 91.81036121673004
+With-Target Score (ResNet): 95.88450570342205
+No-Target Score (ResNet): 99.96197718631178
+##################################################
+| Iter: 80 | LR: 0.12549 | Eps: 128 |
+With-Target Score (VGG16): 0.34138257575757575
+No-Target Score (VGG16): 98.73011363636364
+With-Target Score (InceptionV3): 0.8200757575757577
+No-Target Score (InceptionV3): 91.8409090909091
+With-Target Score (ResNet): 95.89678030303031
+No-Target Score (ResNet): 99.96212121212122
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 16 |
+With-Target Score (VGG16): 0.3410377358490566
+No-Target Score (VGG16): 98.73443396226416
+With-Target Score (InceptionV3): 0.8179245283018869
+No-Target Score (InceptionV3): 91.87122641509434
+With-Target Score (ResNet): 95.89575471698113
+No-Target Score (ResNet): 99.9622641509434
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 32 |
+With-Target Score (VGG16): 0.3406954887218045
+No-Target Score (VGG16): 98.73872180451127
+With-Target Score (InceptionV3): 0.8162593984962406
+No-Target Score (InceptionV3): 91.90178571428571
+With-Target Score (ResNet): 95.88392857142857
+No-Target Score (ResNet): 99.9624060150376
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 48 |
+With-Target Score (VGG16): 0.3403558052434457
+No-Target Score (VGG16): 98.7429775280899
+With-Target Score (InceptionV3): 0.8150749063670412
+No-Target Score (InceptionV3): 91.9316479400749
+With-Target Score (ResNet): 95.8815543071161
+No-Target Score (ResNet): 99.9625468164794
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 64 |
+With-Target Score (VGG16): 0.3400186567164179
+No-Target Score (VGG16): 98.74720149253731
+With-Target Score (InceptionV3): 0.8148320895522387
+No-Target Score (InceptionV3): 91.9617537313433
+With-Target Score (ResNet): 95.87639925373135
+No-Target Score (ResNet): 99.96268656716418
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 80 |
+With-Target Score (VGG16): 0.3396840148698885
+No-Target Score (VGG16): 98.7513940520446
+With-Target Score (InceptionV3): 0.8131970260223048
+No-Target Score (InceptionV3): 91.99117100371748
+With-Target Score (ResNet): 95.88382899628253
+No-Target Score (ResNet): 99.96282527881041
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 96 |
+With-Target Score (VGG16): 0.33935185185185185
+No-Target Score (VGG16): 98.75555555555555
+With-Target Score (InceptionV3): 0.8129629629629629
+No-Target Score (InceptionV3): 92.02083333333333
+With-Target Score (ResNet): 95.88935185185186
+No-Target Score (ResNet): 99.96296296296296
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 112 |
+With-Target Score (VGG16): 0.3390221402214022
+No-Target Score (VGG16): 98.75968634686348
+With-Target Score (InceptionV3): 0.8122693726937269
+No-Target Score (InceptionV3): 92.04935424354244
+With-Target Score (ResNet): 95.89022140221402
+No-Target Score (ResNet): 99.96309963099631
+##################################################
+| Iter: 80 | LR: 0.25098 | Eps: 128 |
+With-Target Score (VGG16): 0.33869485294117646
+No-Target Score (VGG16): 98.76332720588236
+With-Target Score (InceptionV3): 0.8129595588235293
+No-Target Score (InceptionV3): 92.07858455882352
+With-Target Score (ResNet): 95.89338235294119
+No-Target Score (ResNet): 99.96323529411765
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 16 |
+With-Target Score (VGG16): 0.33836996336996333
+No-Target Score (VGG16): 98.76739926739927
+With-Target Score (InceptionV3): 0.8108974358974359
+No-Target Score (InceptionV3): 92.10760073260073
+With-Target Score (ResNet): 95.8974358974359
+No-Target Score (ResNet): 99.96336996336996
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 32 |
+With-Target Score (VGG16): 0.3380474452554745
+No-Target Score (VGG16): 98.77144160583941
+With-Target Score (InceptionV3): 0.8083941605839415
+No-Target Score (InceptionV3): 92.13640510948905
+With-Target Score (ResNet): 95.8882299270073
+No-Target Score (ResNet): 99.96350364963503
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 48 |
+With-Target Score (VGG16): 0.33772727272727276
+No-Target Score (VGG16): 98.77545454545455
+With-Target Score (InceptionV3): 0.8081818181818181
+No-Target Score (InceptionV3): 92.16499999999999
+With-Target Score (ResNet): 95.88272727272728
+No-Target Score (ResNet): 99.96363636363637
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 64 |
+With-Target Score (VGG16): 0.33740942028985504
+No-Target Score (VGG16): 98.77943840579711
+With-Target Score (InceptionV3): 0.806159420289855
+No-Target Score (InceptionV3): 92.19338768115942
+With-Target Score (ResNet): 95.86503623188406
+No-Target Score (ResNet): 99.96376811594203
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 80 |
+With-Target Score (VGG16): 0.33754512635379064
+No-Target Score (VGG16): 98.78339350180505
+With-Target Score (InceptionV3): 0.8055054151624549
+No-Target Score (InceptionV3): 92.22157039711192
+With-Target Score (ResNet): 95.86010830324909
+No-Target Score (ResNet): 99.96389891696751
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 96 |
+With-Target Score (VGG16): 0.3376798561151079
+No-Target Score (VGG16): 98.7873201438849
+With-Target Score (InceptionV3): 0.8044064748201438
+No-Target Score (InceptionV3): 92.24955035971223
+With-Target Score (ResNet): 95.84172661870504
+No-Target Score (ResNet): 99.96402877697842
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 112 |
+With-Target Score (VGG16): 0.33736559139784944
+No-Target Score (VGG16): 98.79121863799283
+With-Target Score (InceptionV3): 0.8028673835125448
+No-Target Score (InceptionV3): 92.27732974910394
+With-Target Score (ResNet): 95.82616487455196
+No-Target Score (ResNet): 99.96415770609319
+##################################################
+| Iter: 80 | LR: 0.50196 | Eps: 128 |
+With-Target Score (VGG16): 0.33705357142857145
+No-Target Score (VGG16): 98.79508928571428
+With-Target Score (InceptionV3): 0.8013392857142858
+No-Target Score (InceptionV3): 92.30446428571429
+With-Target Score (ResNet): 95.8125
+No-Target Score (ResNet): 99.96428571428572
+##################################################

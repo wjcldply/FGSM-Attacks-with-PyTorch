@@ -1,0 +1,293 @@
+nohup: ignoring input
+Training SETUP -> [ NO Normalization | step: alpha=epsilon/iter | type: D-MI-FGSM ]
+<<BEGIN>>
+==================================================
+| Iter: 5 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 0.625 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 93.5 %
+Targeted Attack Score (InceptionV3): 0.375 %
+Untargeted Attack Score (InceptionV3): 80.25 %
+Targeted Attack Score (ResNet): 56.875 %
+Untargeted Attack Score (ResNet): 98.5 %
+==================================================
+| Iter: 5 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 0.5 %
+Untargeted Attack Score (VGG16): 97.875 %
+Targeted Attack Score (InceptionV3): 0.375 %
+Untargeted Attack Score (InceptionV3): 94.75 %
+Targeted Attack Score (ResNet): 64.875 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 5 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 0.75 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.125 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 98.0 %
+Targeted Attack Score (ResNet): 58.75 %
+Untargeted Attack Score (ResNet): 99.75 %
+==================================================
+| Iter: 10 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 0.25 %
+Untargeted Attack Score (VGG16): 97.625 %
+Targeted Attack Score (InceptionV3): 0.0 %
+Untargeted Attack Score (InceptionV3): 92.125 %
+Targeted Attack Score (ResNet): 35.5 %
+Untargeted Attack Score (ResNet): 99.125 %
+==================================================
+| Iter: 10 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 0.8750000000000001 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.375 %
+Targeted Attack Score (InceptionV3): 0.25 %
+Untargeted Attack Score (InceptionV3): 98.5 %
+Targeted Attack Score (ResNet): 33.625 %
+Untargeted Attack Score (ResNet): 99.75 %
+==================================================
+| Iter: 10 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 0.8750000000000001 %
+Untargeted Attack Score (VGG16): 99.5 %
+Targeted Attack Score (InceptionV3): 0.25 %
+Untargeted Attack Score (InceptionV3): 99.5 %
+Targeted Attack Score (ResNet): 28.249999999999996 %
+Untargeted Attack Score (ResNet): 99.75 %
+==================================================
+| Iter: 25 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 0.125 %
+Untargeted Attack Score (VGG16): 99.25 %
+Targeted Attack Score (InceptionV3): 0.125 %
+Untargeted Attack Score (InceptionV3): 99.25 %
+Targeted Attack Score (ResNet): 11.5 %
+Untargeted Attack Score (ResNet): 99.625 %
+==================================================
+| Iter: 25 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 0.625 %
+Untargeted Attack Score (VGG16): 99.75 %
+Targeted Attack Score (InceptionV3): 0.25 %
+Untargeted Attack Score (InceptionV3): 99.75 %
+Targeted Attack Score (ResNet): 10.875 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 25 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 0.8750000000000001 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.375 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 26.5 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 50 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 1.125 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.75 %
+Targeted Attack Score (InceptionV3): 0.75 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 12.75 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 50 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 1.625 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 21.5 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 50 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 1.5 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 0.75 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 31.874999999999996 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 75 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 1.625 %
+Untargeted Attack Score (VGG16): 99.75 %
+Targeted Attack Score (InceptionV3): 0.75 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 17.5 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 75 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 2.375 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 40.75 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 75 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 2.125 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.625 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 43.125 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 100 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 2.25 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 32.125 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 100 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 2.75 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.375 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 57.125 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 100 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 2.875 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.75 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 57.75 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 150 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 2.75 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 50.5 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+| Iter: 150 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 4.25 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.5 %
+Targeted Attack Score (InceptionV3): 1.125 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 69.0 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 150 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 3.25 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.8750000000000001 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 61.75000000000001 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 200 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 3.125 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 1.25 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 67.125 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 200 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 5.625 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 1.125 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 83.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 200 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 4.5 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 0.8750000000000001 %
+Untargeted Attack Score (InceptionV3): 99.625 %
+Targeted Attack Score (ResNet): 74.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 250 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 4.75 %
+Untargeted Attack Score (VGG16): 99.625 %
+Targeted Attack Score (InceptionV3): 2.25 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 74.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 250 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 5.625 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 1.375 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 85.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 250 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 6.125 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 1.25 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 83.25 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 300 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 5.875 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 2.625 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 81.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 300 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 8.0 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.75 %
+Targeted Attack Score (InceptionV3): 1.375 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 92.875 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 300 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 7.875 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 0.8750000000000001 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 91.375 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 350 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 5.375 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 3.0 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 86.125 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 350 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 8.125 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 2.0 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 93.375 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 350 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 8.375 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.8750000000000001 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 91.0 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 400 | Eps: 0.06274509803921569 |
+Targeted Attack Score (VGG16): 6.25 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 3.375 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 90.625 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 400 | Eps: 0.12549019607843137 |
+Targeted Attack Score (VGG16): 8.625 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 2.125 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 97.25 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+| Iter: 400 | Eps: 0.18823529411764706 |
+Targeted Attack Score (VGG16): 9.875 % <------------------VGG16 TEST SOTA
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 1.5 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 95.75 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+<<END>>
