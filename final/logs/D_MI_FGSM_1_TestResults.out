@@ -93,3 +93,49 @@ Targeted Attack Score (ResNet): 99.0 %
 Untargeted Attack Score (ResNet): 100.0 %
 ==================================================
 submission.csv file for iter800_eps0.13_2Delta SAVED SUCCESSFULLY
+| Iter: 50 | Eps: 0.06 |
+Targeted Attack Score (VGG16): 1.125 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.5 %
+Untargeted Attack Score (InceptionV3): 99.75 %
+Targeted Attack Score (ResNet): 13.25 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+submission.csv file for iter50_eps0.06_2Delta SAVED SUCCESSFULLY
+| Iter: 100 | Eps: 0.06 |
+Targeted Attack Score (VGG16): 2.0 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 0.375 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 30.625000000000004 %
+Untargeted Attack Score (ResNet): 99.875 %
+==================================================
+submission.csv file for iter100_eps0.06_2Delta SAVED SUCCESSFULLY
+| Iter: 200 | Eps: 0.06 |
+Targeted Attack Score (VGG16): 3.0 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 1.125 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 70.625 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+submission.csv file for iter200_eps0.06_2Delta SAVED SUCCESSFULLY
+| Iter: 400 | Eps: 0.06 |
+Targeted Attack Score (VGG16): 6.0 %
+Untargeted Attack Score (VGG16): 100.0 %
+Targeted Attack Score (InceptionV3): 3.125 %
+Untargeted Attack Score (InceptionV3): 99.875 %
+Targeted Attack Score (ResNet): 86.0 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+submission.csv file for iter400_eps0.06_2Delta SAVED SUCCESSFULLY
+| Iter: 800 | Eps: 0.06 |
+Targeted Attack Score (VGG16): 7.875 %
+Untargeted Attack Score (VGG16): 99.875 %
+Targeted Attack Score (InceptionV3): 4.75 %
+Untargeted Attack Score (InceptionV3): 100.0 %
+Targeted Attack Score (ResNet): 96.5 %
+Untargeted Attack Score (ResNet): 100.0 %
+==================================================
+submission.csv file for iter800_eps0.06_2Delta SAVED SUCCESSFULLY
+<<END>>
